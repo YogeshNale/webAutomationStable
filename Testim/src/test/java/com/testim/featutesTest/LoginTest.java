@@ -46,6 +46,14 @@ public class LoginTest extends TestBase {
 	public void loginWithoutEnterUsernamePassword() {
 		loginPage.clickOnLoginButton();
 		loginPage.noInputUserErrorMs();
+		
+	}
+	
+	@Test(priority=3,groups="Functional")
+	public void loginWithoutEnterPassword() {
+		loginPage.enterUserName("Yogesh");
+		loginPage.clickOnLoginButton();
+		loginPage.noInputUserErrorMs();
 	}
 	
 
