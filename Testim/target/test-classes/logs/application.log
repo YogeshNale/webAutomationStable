@@ -149,3 +149,37 @@
 2025-01-30T19:02:37,969 INFO  [main] ExtentReport:20 - loginWithInvalidUserNamePassword scenario execution start
 2025-01-30T19:02:38,205 INFO  [main] ExtentReport:27 - loginWithInvalidUserNamePassword scenario execute successfully.
 2025-01-30T19:02:38,472 INFO  [main] LoginTest:51 - Browser quit Sucessfully.
+2025-01-30T23:14:49,159 INFO  [main] LoginTest:30 - Chrome Browser Launch.
+2025-01-30T23:14:50,740 INFO  [main] LoginTest:20 - URL SucessFully Launched.
+2025-01-30T23:14:50,771 INFO  [main] ExtentReport:20 - loginWithValidUserNamePassword scenario execution start
+2025-01-30T23:14:51,667 INFO  [main] ExtentReport:27 - loginWithValidUserNamePassword scenario execute successfully.
+2025-01-30T23:14:51,848 INFO  [main] LoginTest:20 - URL SucessFully Launched.
+2025-01-30T23:14:51,854 INFO  [main] ExtentReport:20 - loginWithInvalidUserNamePassword scenario execution start
+2025-01-30T23:14:52,331 INFO  [main] ExtentReport:27 - loginWithInvalidUserNamePassword scenario execute successfully.
+2025-01-30T23:14:52,383 INFO  [main] LoginTest:20 - URL SucessFully Launched.
+2025-01-30T23:14:52,389 INFO  [main] ExtentReport:20 - loginWithInvalidUserNamePassword scenario execution start
+2025-01-30T23:14:52,737 INFO  [main] ExtentReport:27 - loginWithInvalidUserNamePassword scenario execute successfully.
+2025-01-30T23:14:52,806 INFO  [main] LoginTest:20 - URL SucessFully Launched.
+2025-01-30T23:14:52,809 INFO  [main] ExtentReport:20 - loginWithInvalidUserNamePassword scenario execution start
+2025-01-30T23:14:53,156 INFO  [main] ExtentReport:27 - loginWithInvalidUserNamePassword scenario execute successfully.
+2025-01-30T23:14:53,225 INFO  [main] LoginTest:20 - URL SucessFully Launched.
+2025-01-30T23:14:53,228 INFO  [main] ExtentReport:20 - loginWithoutEnterUsernamePassword scenario execution start
+2025-01-30T23:14:58,553 INFO  [main] ExtentReport:37 - loginWithoutEnterUsernamePassword scenario execution fail.
+2025-01-30T23:14:59,013 INFO  [main] LoginTest:51 - Browser quit Sucessfully.
+2025-01-30T23:15:49,669 INFO  [main] LoginTest:30 - Chrome Browser Launch.
+2025-01-30T23:15:50,340 INFO  [main] LoginTest:20 - URL SucessFully Launched.
+2025-01-30T23:15:50,375 INFO  [main] ExtentReport:20 - loginWithValidUserNamePassword scenario execution start
+2025-01-30T23:15:51,597 INFO  [main] ExtentReport:27 - loginWithValidUserNamePassword scenario execute successfully.
+2025-01-30T23:15:51,731 INFO  [main] LoginTest:20 - URL SucessFully Launched.
+2025-01-30T23:15:51,738 INFO  [main] ExtentReport:20 - loginWithInvalidUserNamePassword scenario execution start
+2025-01-30T23:15:52,078 INFO  [main] ExtentReport:27 - loginWithInvalidUserNamePassword scenario execute successfully.
+2025-01-30T23:15:52,156 INFO  [main] LoginTest:20 - URL SucessFully Launched.
+2025-01-30T23:15:52,163 INFO  [main] ExtentReport:20 - loginWithInvalidUserNamePassword scenario execution start
+2025-01-30T23:15:52,467 INFO  [main] ExtentReport:27 - loginWithInvalidUserNamePassword scenario execute successfully.
+2025-01-30T23:15:52,524 INFO  [main] LoginTest:20 - URL SucessFully Launched.
+2025-01-30T23:15:52,527 INFO  [main] ExtentReport:20 - loginWithInvalidUserNamePassword scenario execution start
+2025-01-30T23:15:52,835 INFO  [main] ExtentReport:27 - loginWithInvalidUserNamePassword scenario execute successfully.
+2025-01-30T23:15:52,890 INFO  [main] LoginTest:20 - URL SucessFully Launched.
+2025-01-30T23:15:52,892 INFO  [main] ExtentReport:20 - loginWithoutEnterUsernamePassword scenario execution start
+2025-01-30T23:15:53,007 INFO  [main] ExtentReport:27 - loginWithoutEnterUsernamePassword scenario execute successfully.
+2025-01-30T23:15:53,321 INFO  [main] LoginTest:51 - Browser quit Sucessfully.
