@@ -27,6 +27,9 @@ public class LoginPage extends TestBase {
 	
 	@FindBy(xpath="//button[@class='error-button']")
 	private WebElement InvalidUserNamePasswordErrorMsg;
+	
+	@FindBy(xpath="//h3[@data-test='error']")
+	private WebElement NoInputUserNamePasswordErrorMSg;
 
 	// Enter username
 	public void enterUserName(String userName) {
@@ -67,5 +70,9 @@ public class LoginPage extends TestBase {
 		data[2][1]="Ugale";
 		return data;
 	}
+	
+	public void noInputUserErrorMs() {
+		Assert.assertTrue(NoInputUserNamePasswordErrorMSg.isDisplayed());	}
+	
 
 }

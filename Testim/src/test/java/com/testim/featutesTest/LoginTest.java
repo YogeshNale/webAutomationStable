@@ -41,5 +41,12 @@ public class LoginTest extends TestBase {
 		loginPage.checkInvalidUserNamePasswordErrorMSG();
 	}
 	
+	// To check if user not enter UserName and password and try to login
+	@Test(priority=2 ,groups="Functional")
+	public void loginWithoutEnterUsernamePassword() {
+		loginPage.clickOnLoginButton();
+		loginPage.noInputUserErrorMs();
+	}
+	
 
 }
