@@ -93,7 +93,7 @@
               <div class="suite-section-content">
                 <ul>
                   <li>
-                    <span class="method-stats">4 methods,   4 passed</span>
+                    <span class="method-stats">5 methods,   5 passed</span>
                   </li>
                   <li>
                     <span class="method-list-title passed">Passed methods</span>
@@ -102,6 +102,11 @@
                       <a href="#" panel-name="suite-Suite" class="show-methods passed suite-Suite"> (show)</a> <!-- show-methods passed suite-Suite -->
                     </span>
                     <div class="method-list-content passed suite-Suite">
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Suite" title="com.testim.featutesTest.LoginTest" class="method navigator-link" hash-for-method="loginWithInvalidUserNamePassword(Prashant, Ugale)">loginWithInvalidUserNamePassword(Prashant, Ugale)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
                       <span>
                         <img src="passed.png" width="3%"/>
                         <a href="#" panel-name="suite-Suite" title="com.testim.featutesTest.LoginTest" class="method navigator-link" hash-for-method="loginWithInvalidUserNamePassword(Abak, Ashsi)">loginWithInvalidUserNamePassword(Abak, Ashsi)</a> <!-- method navigator-link -->
@@ -114,12 +119,12 @@
                       <br/>
                       <span>
                         <img src="passed.png" width="3%"/>
-                        <a href="#" panel-name="suite-Suite" title="com.testim.featutesTest.LoginTest" class="method navigator-link" hash-for-method="loginWithInvalidUserNamePassword(Prashant, Ugale)">loginWithInvalidUserNamePassword(Prashant, Ugale)</a> <!-- method navigator-link -->
+                        <a href="#" panel-name="suite-Suite" title="com.testim.featutesTest.LoginTest" class="method navigator-link" hash-for-method="loginWithValidUserNamePassword">loginWithValidUserNamePassword</a> <!-- method navigator-link -->
                       </span>
                       <br/>
                       <span>
                         <img src="passed.png" width="3%"/>
-                        <a href="#" panel-name="suite-Suite" title="com.testim.featutesTest.LoginTest" class="method navigator-link" hash-for-method="loginWithValidUserNamePassword">loginWithValidUserNamePassword</a> <!-- method navigator-link -->
+                        <a href="#" panel-name="suite-Suite" title="com.testim.featutesTest.LoginTest" class="method navigator-link" hash-for-method="loginWithoutEnterUsernamePassword">loginWithoutEnterUsernamePassword</a> <!-- method navigator-link -->
                       </span>
                       <br/>
                     </div> <!-- method-list-content passed suite-Suite -->
@@ -142,6 +147,14 @@
             <div class="main-panel-content rounded-window-bottom">
               <div class="method">
                 <div class="method-content">
+                  <a name="loginWithInvalidUserNamePassword(Prashant, Ugale)">
+                  </a> <!-- loginWithInvalidUserNamePassword(Prashant, Ugale) -->
+                  <span class="method-name">loginWithInvalidUserNamePassword</span>
+                  <span class="parameters">(Prashant, Ugale)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
                   <a name="loginWithInvalidUserNamePassword(Abak, Ashsi)">
                   </a> <!-- loginWithInvalidUserNamePassword(Abak, Ashsi) -->
                   <span class="method-name">loginWithInvalidUserNamePassword</span>
@@ -158,17 +171,16 @@
               </div> <!-- method -->
               <div class="method">
                 <div class="method-content">
-                  <a name="loginWithInvalidUserNamePassword(Prashant, Ugale)">
-                  </a> <!-- loginWithInvalidUserNamePassword(Prashant, Ugale) -->
-                  <span class="method-name">loginWithInvalidUserNamePassword</span>
-                  <span class="parameters">(Prashant, Ugale)</span>
+                  <a name="loginWithValidUserNamePassword">
+                  </a> <!-- loginWithValidUserNamePassword -->
+                  <span class="method-name">loginWithValidUserNamePassword</span>
                 </div> <!-- method-content -->
               </div> <!-- method -->
               <div class="method">
                 <div class="method-content">
-                  <a name="loginWithValidUserNamePassword">
-                  </a> <!-- loginWithValidUserNamePassword -->
-                  <span class="method-name">loginWithValidUserNamePassword</span>
+                  <a name="loginWithoutEnterUsernamePassword">
+                  </a> <!-- loginWithoutEnterUsernamePassword -->
+                  <span class="method-name">loginWithoutEnterUsernamePassword</span>
                 </div> <!-- method-content -->
               </div> <!-- method -->
             </div> <!-- main-panel-content rounded-window-bottom -->
@@ -224,6 +236,10 @@
                 <span class="method-in-group-name">loginWithValidUserNamePassword</span>
                 <br/>
               </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">loginWithoutEnterUsernamePassword</span>
+                <br/>
+              </div> <!-- method-in-group -->
             </div> <!-- test-group -->
             <div class="test-group">
               <span class="test-group-name">Smoke</span>
@@ -249,28 +265,32 @@ data.addColumn('number', 'Number');
 data.addColumn('string', 'Method');
 data.addColumn('string', 'Class');
 data.addColumn('number', 'Time (ms)');
-data.addRows(4);
+data.addRows(5);
 data.setCell(0, 0, 0)
 data.setCell(0, 1, 'loginWithValidUserNamePassword')
 data.setCell(0, 2, 'com.testim.featutesTest.LoginTest')
-data.setCell(0, 3, 537);
+data.setCell(0, 3, 1251);
 data.setCell(1, 0, 1)
 data.setCell(1, 1, 'loginWithInvalidUserNamePassword')
 data.setCell(1, 2, 'com.testim.featutesTest.LoginTest')
-data.setCell(1, 3, 289);
+data.setCell(1, 3, 346);
 data.setCell(2, 0, 2)
 data.setCell(2, 1, 'loginWithInvalidUserNamePassword')
 data.setCell(2, 2, 'com.testim.featutesTest.LoginTest')
-data.setCell(2, 3, 241);
+data.setCell(2, 3, 310);
 data.setCell(3, 0, 3)
 data.setCell(3, 1, 'loginWithInvalidUserNamePassword')
 data.setCell(3, 2, 'com.testim.featutesTest.LoginTest')
-data.setCell(3, 3, 238);
+data.setCell(3, 3, 310);
+data.setCell(4, 0, 4)
+data.setCell(4, 1, 'loginWithoutEnterUsernamePassword')
+data.setCell(4, 2, 'com.testim.featutesTest.LoginTest')
+data.setCell(4, 3, 117);
 window.suiteTableData['Suite']= { tableData: data, tableDiv: 'times-div-Suite'}
 return data;
 }
               </script>
-              <span class="suite-total-time">Total running time: 1 seconds</span>
+              <span class="suite-total-time">Total running time: 2 seconds</span>
               <div id="times-div-Suite">
               </div> <!-- times-div-Suite -->
             </div> <!-- times-div -->
@@ -303,39 +323,47 @@ return data;
               </div> <!-- configuration-test before -->
               <div class="configuration-method before">
                 <span class="method-name">LaunchURL</span>
-                <span class="method-start">2229 ms</span>
+                <span class="method-start">3150 ms</span>
               </div> <!-- configuration-method before -->
               <div class="test-method">
                 <span class="method-name">loginWithValidUserNamePassword</span>
-                <span class="method-start">3476 ms</span>
+                <span class="method-start">3632 ms</span>
               </div> <!-- test-method -->
               <div class="configuration-method before">
                 <span class="method-name">LaunchURL</span>
-                <span class="method-start">4036 ms</span>
+                <span class="method-start">4905 ms</span>
               </div> <!-- configuration-method before -->
               <div class="test-method">
                 <span class="method-name">loginWithInvalidUserNamePassword(Yogesh, Nale)</span>
-                <span class="method-start">4117 ms</span>
+                <span class="method-start">5021 ms</span>
               </div> <!-- test-method -->
               <div class="configuration-method before">
                 <span class="method-name">LaunchURL</span>
-                <span class="method-start">4409 ms</span>
+                <span class="method-start">5370 ms</span>
               </div> <!-- configuration-method before -->
               <div class="test-method">
                 <span class="method-name">loginWithInvalidUserNamePassword(Abak, Ashsi)</span>
-                <span class="method-start">4481 ms</span>
+                <span class="method-start">5445 ms</span>
               </div> <!-- test-method -->
               <div class="configuration-method before">
                 <span class="method-name">LaunchURL</span>
-                <span class="method-start">4724 ms</span>
+                <span class="method-start">5759 ms</span>
               </div> <!-- configuration-method before -->
               <div class="test-method">
                 <span class="method-name">loginWithInvalidUserNamePassword(Prashant, Ugale)</span>
-                <span class="method-start">4768 ms</span>
+                <span class="method-start">5814 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method before">
+                <span class="method-name">LaunchURL</span>
+                <span class="method-start">6127 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">loginWithoutEnterUsernamePassword</span>
+                <span class="method-start">6179 ms</span>
               </div> <!-- test-method -->
               <div class="configuration-test after">
                 <span class="method-name">tearDown</span>
-                <span class="method-start">5009 ms</span>
+                <span class="method-start">6300 ms</span>
               </div> <!-- configuration-test after -->
           </div> <!-- main-panel-content rounded-window-bottom -->
         </div> <!-- panel -->

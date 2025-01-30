@@ -9,8 +9,8 @@
     <classes>
       <class name="com.testim.featutesTest.LoginTest">
         <methods>
-          <include name="loginWithInvalidUserNamePassword"/>
           <include name="setUPBrowser"/>
+          <include name="loginWithoutEnterUsernamePassword"/>
           <include name="tearDown"/>
           <include name="LaunchURL"/>
         </methods>
