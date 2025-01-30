@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="WARN">
+    <!-- Appender for Console -->
+    <Appenders>
+        <Console name="Console" target="SYSTEM_OUT">
+            <PatternLayout pattern="%d{yyyy-MM-dd HH:mm:ss} %-5p [%t] %c{1}:%L - %m%n" />
+        </Console>
+
+        <!-- Appender for File -->
+        <RollingFile name="File" fileName="F:\PracticeProject\AmazonProject\src\test\resources\logs\application.log" 
+        filePattern="logs/application-%d{MM-dd-yyyy}.log">
+            <PatternLayout pattern="%d{ISO8601} %-5p [%t] %c{1}:%L - %m%n" />
+            <Policies>
+                <SizeBasedTriggeringPolicy size="10MB" />
+            </Policies>
+            <DefaultRolloverStrategy max="5" />
+        </RollingFile>
+    </Appenders>
+
+    <!-- Loggers Configuration -->
+    <Loggers>
+        <Root level="info">
+            <AppenderRef ref="Console" />
+            <AppenderRef ref="File" />
+        </Root>
+
+        <Logger name="com.example" level="debug" additivity="false">
+            <AppenderRef ref="Console" />
+        </Logger>
+    </Loggers>
+</Configuration>

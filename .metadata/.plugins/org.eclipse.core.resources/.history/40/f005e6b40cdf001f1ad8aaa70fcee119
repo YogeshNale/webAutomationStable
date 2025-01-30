@@ -1,0 +1,42 @@
+package com.testim.featutesTest;
+
+import org.openqa.selenium.support.PageFactory;
+import org.testng.Assert;
+import org.testng.annotations.BeforeMethod;
+import org.testng.annotations.Test;
+
+import com.testim.TestBase.TestBase;
+
+public class LoginTest extends TestBase {
+	
+	public LoginTest() {
+		PageFactory.initElements(driver, this);
+	}
+	@BeforeMethod
+	public void LaunchURL() {
+		driver.get("https://www.saucedemo.com/");
+		log.info("URL SucessFully Launched.");
+		
+		}
+	
+	//To check user able to login successfully with valid userNameAndPassword
+	@Test(priority=0 ,groups= {"Smoke","Functional"})
+	public void loginWithValidUserNamePassword() {
+		loginPage.enterUserName("standard_user");
+		loginPage.enterPassword("secret_sauce");
+		loginPage.clickOnLoginButton();
+	loginPage.verifyUserRedirectOnHomePage("https://www.saucedemo.com/inventory.html");
+		
+	}
+	
+	//To check if user enter invalid userName and password 
+	@Test(priority=1,groups= {"Functional"})
+	public void loginWithInvalidUserNamePassword() {
+		loginPage.enterUserName("standarser");
+		loginPage.enterPassword("secretuce");
+		loginPage.clickOnLoginButton();
+		loginPage.checkInvalidUserNamePasswordErrorMSG();
+	}
+	
+
+}

@@ -1,0 +1,11 @@
+package com.testim.featutesTest;
+
+import com.testim.TestBase.TestBase;
+
+public class LoginTest extends TestBase {
+	
+	public void start() {
+		log.info("Testing start");
+	}
+
+}

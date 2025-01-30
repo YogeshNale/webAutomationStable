@@ -1,0 +1,57 @@
+package com.testim.extentReport;
+
+import org.testng.ITestContext;
+import org.testng.ITestListener;
+import org.testng.ITestResult;
+
+import com.relevantcodes.extentreports.ExtentReports;
+import com.relevantcodes.extentreports.ExtentTest;
+import com.relevantcodes.extentreports.LogStatus;
+import com.testim.utility.CapturedScreenShot;
+
+public class ExtentReport implements ITestListener {
+   private ExtentReports extent;
+   private ExtentTest test;
+   
+	@Override
+	public void onTestStart(ITestResult result) {
+		test=extent.startTest(result.getName());
+		
+	}
+
+	@Override
+	public void onTestSuccess(ITestResult result) {
+		test.log(LogStatus.PASS, result.getName());
+	}
+
+	@Override
+	public void onTestFailure(ITestResult result) {
+		String captureScreenShotOnTestFail=CapturedScreenShot.captureScreenShot(result.getName());
+	}
+
+	@Override
+	public void onTestSkipped(ITestResult result) {
+		
+	}
+
+	@Override
+	public void onTestFailedButWithinSuccessPercentage(ITestResult result) {
+	
+	}
+
+	@Override
+	public void onTestFailedWithTimeout(ITestResult result) {
+		
+	}
+
+	@Override
+	public void onStart(ITestContext context) {
+		
+	}
+
+	@Override
+	public void onFinish(ITestContext context) {
+		
+	}
+
+}

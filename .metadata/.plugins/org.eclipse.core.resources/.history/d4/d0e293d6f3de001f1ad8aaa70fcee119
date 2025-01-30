@@ -1,0 +1,18 @@
+package com.testim.featutesTest;
+
+import static org.testng.Assert.fail;
+
+import org.testng.Assert;
+import org.testng.annotations.Test;
+
+import com.testim.TestBase.TestBase;
+
+public class LoginTest extends TestBase {
+	
+	@Test
+	public void start() {
+		log.info("Testing start");
+		Assert.assertTrue(false);
+		}
+
+}
