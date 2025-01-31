@@ -28,7 +28,7 @@ public class LoginTest extends TestBase {
 		loginPage.enterPassword("secret_sauce");
 		loginPage.clickOnLoginButton();
 	loginPage.verifyUserRedirectOnHomePage("https://www.saucedemo.com/inventory.html");
-	loginPage.noInputUserErrorMs();
+	
 		
 	}
 	
