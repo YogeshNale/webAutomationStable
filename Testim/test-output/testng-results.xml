@@ -1,20 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-01-30T19:02:33 IST" name="Suite" finished-at="2025-01-30T19:02:38 IST" duration-ms="5356">
+  <suite started-at="2025-01-30T23:15:46 IST" name="Suite" finished-at="2025-01-30T23:15:53 IST" duration-ms="6730">
     <groups>
       <group name="Functional">
-        <method signature="LoginTest.loginWithValidUserNamePassword()[pri:0, instance:com.testim.featutesTest.LoginTest@517566b]" name="loginWithValidUserNamePassword" class="com.testim.featutesTest.LoginTest"/>
-        <method signature="LoginTest.loginWithInvalidUserNamePassword(java.lang.String,java.lang.String)[pri:1, instance:com.testim.featutesTest.LoginTest@517566b]" name="loginWithInvalidUserNamePassword" class="com.testim.featutesTest.LoginTest"/>
+        <method signature="LoginTest.loginWithValidUserNamePassword()[pri:0, instance:com.testim.featutesTest.LoginTest@64b73e7a]" name="loginWithValidUserNamePassword" class="com.testim.featutesTest.LoginTest"/>
+        <method signature="LoginTest.loginWithInvalidUserNamePassword(java.lang.String,java.lang.String)[pri:1, instance:com.testim.featutesTest.LoginTest@64b73e7a]" name="loginWithInvalidUserNamePassword" class="com.testim.featutesTest.LoginTest"/>
+        <method signature="LoginTest.loginWithoutEnterUsernamePassword()[pri:2, instance:com.testim.featutesTest.LoginTest@64b73e7a]" name="loginWithoutEnterUsernamePassword" class="com.testim.featutesTest.LoginTest"/>
       </group> <!-- Functional -->
       <group name="Smoke">
-        <method signature="LoginTest.loginWithValidUserNamePassword()[pri:0, instance:com.testim.featutesTest.LoginTest@517566b]" name="loginWithValidUserNamePassword" class="com.testim.featutesTest.LoginTest"/>
+        <method signature="LoginTest.loginWithValidUserNamePassword()[pri:0, instance:com.testim.featutesTest.LoginTest@64b73e7a]" name="loginWithValidUserNamePassword" class="com.testim.featutesTest.LoginTest"/>
       </group> <!-- Smoke -->
     </groups>
-    <test started-at="2025-01-30T19:02:33 IST" name="Test" finished-at="2025-01-30T19:02:38 IST" duration-ms="5356">
+    <test started-at="2025-01-30T23:15:46 IST" name="Test" finished-at="2025-01-30T23:15:53 IST" duration-ms="6730">
       <class name="com.testim.featutesTest.LoginTest">
-        <test-method is-config="true" signature="setUPBrowser(java.lang.String)[pri:0, instance:com.testim.featutesTest.LoginTest@517566b]" started-at="2025-01-30T19:02:33 IST" name="setUPBrowser" finished-at="2025-01-30T19:02:35 IST" duration-ms="2215" status="PASS">
+        <test-method is-config="true" signature="setUPBrowser(java.lang.String)[pri:0, instance:com.testim.featutesTest.LoginTest@64b73e7a]" started-at="2025-01-30T23:15:46 IST" name="setUPBrowser" finished-at="2025-01-30T23:15:49 IST" duration-ms="3121" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -25,19 +26,19 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUPBrowser -->
-        <test-method is-config="true" signature="LaunchURL()[pri:0, instance:com.testim.featutesTest.LoginTest@517566b]" started-at="2025-01-30T19:02:35 IST" name="LaunchURL" finished-at="2025-01-30T19:02:36 IST" duration-ms="1245" status="PASS">
+        <test-method is-config="true" signature="LaunchURL()[pri:0, instance:com.testim.featutesTest.LoginTest@64b73e7a]" started-at="2025-01-30T23:15:49 IST" name="LaunchURL" finished-at="2025-01-30T23:15:50 IST" duration-ms="481" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- LaunchURL -->
-        <test-method signature="loginWithValidUserNamePassword()[pri:0, instance:com.testim.featutesTest.LoginTest@517566b]" started-at="2025-01-30T19:02:36 IST" name="loginWithValidUserNamePassword" finished-at="2025-01-30T19:02:37 IST" duration-ms="537" status="PASS">
+        <test-method signature="loginWithValidUserNamePassword()[pri:0, instance:com.testim.featutesTest.LoginTest@64b73e7a]" started-at="2025-01-30T23:15:50 IST" name="loginWithValidUserNamePassword" finished-at="2025-01-30T23:15:51 IST" duration-ms="1251" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginWithValidUserNamePassword -->
-        <test-method is-config="true" signature="LaunchURL()[pri:0, instance:com.testim.featutesTest.LoginTest@517566b]" started-at="2025-01-30T19:02:37 IST" name="LaunchURL" finished-at="2025-01-30T19:02:37 IST" duration-ms="81" status="PASS">
+        <test-method is-config="true" signature="LaunchURL()[pri:0, instance:com.testim.featutesTest.LoginTest@64b73e7a]" started-at="2025-01-30T23:15:51 IST" name="LaunchURL" finished-at="2025-01-30T23:15:51 IST" duration-ms="116" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- LaunchURL -->
-        <test-method signature="loginWithInvalidUserNamePassword(java.lang.String,java.lang.String)[pri:1, instance:com.testim.featutesTest.LoginTest@517566b]" started-at="2025-01-30T19:02:37 IST" name="loginWithInvalidUserNamePassword" data-provider="UserNameAndPassword" finished-at="2025-01-30T19:02:37 IST" duration-ms="289" status="PASS">
+        <test-method signature="loginWithInvalidUserNamePassword(java.lang.String,java.lang.String)[pri:1, instance:com.testim.featutesTest.LoginTest@64b73e7a]" started-at="2025-01-30T23:15:51 IST" name="loginWithInvalidUserNamePassword" data-provider="UserNameAndPassword" finished-at="2025-01-30T23:15:52 IST" duration-ms="346" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -53,11 +54,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginWithInvalidUserNamePassword -->
-        <test-method is-config="true" signature="LaunchURL()[pri:0, instance:com.testim.featutesTest.LoginTest@517566b]" started-at="2025-01-30T19:02:37 IST" name="LaunchURL" finished-at="2025-01-30T19:02:37 IST" duration-ms="72" status="PASS">
+        <test-method is-config="true" signature="LaunchURL()[pri:0, instance:com.testim.featutesTest.LoginTest@64b73e7a]" started-at="2025-01-30T23:15:52 IST" name="LaunchURL" finished-at="2025-01-30T23:15:52 IST" duration-ms="75" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- LaunchURL -->
-        <test-method signature="loginWithInvalidUserNamePassword(java.lang.String,java.lang.String)[pri:1, instance:com.testim.featutesTest.LoginTest@517566b]" started-at="2025-01-30T19:02:37 IST" name="loginWithInvalidUserNamePassword" data-provider="UserNameAndPassword" finished-at="2025-01-30T19:02:37 IST" duration-ms="241" status="PASS">
+        <test-method signature="loginWithInvalidUserNamePassword(java.lang.String,java.lang.String)[pri:1, instance:com.testim.featutesTest.LoginTest@64b73e7a]" started-at="2025-01-30T23:15:52 IST" name="loginWithInvalidUserNamePassword" data-provider="UserNameAndPassword" finished-at="2025-01-30T23:15:52 IST" duration-ms="310" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -73,11 +74,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginWithInvalidUserNamePassword -->
-        <test-method is-config="true" signature="LaunchURL()[pri:0, instance:com.testim.featutesTest.LoginTest@517566b]" started-at="2025-01-30T19:02:37 IST" name="LaunchURL" finished-at="2025-01-30T19:02:37 IST" duration-ms="44" status="PASS">
+        <test-method is-config="true" signature="LaunchURL()[pri:0, instance:com.testim.featutesTest.LoginTest@64b73e7a]" started-at="2025-01-30T23:15:52 IST" name="LaunchURL" finished-at="2025-01-30T23:15:52 IST" duration-ms="54" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- LaunchURL -->
-        <test-method signature="loginWithInvalidUserNamePassword(java.lang.String,java.lang.String)[pri:1, instance:com.testim.featutesTest.LoginTest@517566b]" started-at="2025-01-30T19:02:37 IST" name="loginWithInvalidUserNamePassword" data-provider="UserNameAndPassword" finished-at="2025-01-30T19:02:38 IST" duration-ms="238" status="PASS">
+        <test-method signature="loginWithInvalidUserNamePassword(java.lang.String,java.lang.String)[pri:1, instance:com.testim.featutesTest.LoginTest@64b73e7a]" started-at="2025-01-30T23:15:52 IST" name="loginWithInvalidUserNamePassword" data-provider="UserNameAndPassword" finished-at="2025-01-30T23:15:52 IST" duration-ms="310" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -93,7 +94,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginWithInvalidUserNamePassword -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.testim.featutesTest.LoginTest@517566b]" started-at="2025-01-30T19:02:38 IST" name="tearDown" finished-at="2025-01-30T19:02:38 IST" duration-ms="264" status="PASS">
+        <test-method is-config="true" signature="LaunchURL()[pri:0, instance:com.testim.featutesTest.LoginTest@64b73e7a]" started-at="2025-01-30T23:15:52 IST" name="LaunchURL" finished-at="2025-01-30T23:15:52 IST" duration-ms="52" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchURL -->
+        <test-method signature="loginWithoutEnterUsernamePassword()[pri:2, instance:com.testim.featutesTest.LoginTest@64b73e7a]" started-at="2025-01-30T23:15:52 IST" name="loginWithoutEnterUsernamePassword" finished-at="2025-01-30T23:15:53 IST" duration-ms="117" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithoutEnterUsernamePassword -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.testim.featutesTest.LoginTest@64b73e7a]" started-at="2025-01-30T23:15:53 IST" name="tearDown" finished-at="2025-01-30T23:15:53 IST" duration-ms="311" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
