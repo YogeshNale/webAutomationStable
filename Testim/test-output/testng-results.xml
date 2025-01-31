@@ -1,21 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+<testng-results ignored="0" total="7" passed="6" failed="1" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-01-30T23:15:46 IST" name="Suite" finished-at="2025-01-30T23:15:53 IST" duration-ms="6730">
+  <suite started-at="2025-01-31T09:56:18 IST" name="Suite" finished-at="2025-01-31T09:56:29 IST" duration-ms="11067">
     <groups>
       <group name="Functional">
-        <method signature="LoginTest.loginWithValidUserNamePassword()[pri:0, instance:com.testim.featutesTest.LoginTest@64b73e7a]" name="loginWithValidUserNamePassword" class="com.testim.featutesTest.LoginTest"/>
-        <method signature="LoginTest.loginWithInvalidUserNamePassword(java.lang.String,java.lang.String)[pri:1, instance:com.testim.featutesTest.LoginTest@64b73e7a]" name="loginWithInvalidUserNamePassword" class="com.testim.featutesTest.LoginTest"/>
-        <method signature="LoginTest.loginWithoutEnterUsernamePassword()[pri:2, instance:com.testim.featutesTest.LoginTest@64b73e7a]" name="loginWithoutEnterUsernamePassword" class="com.testim.featutesTest.LoginTest"/>
+        <method signature="LoginTest.loginWithValidUserNamePassword()[pri:0, instance:com.testim.featutesTest.LoginTest@2df6226d]" name="loginWithValidUserNamePassword" class="com.testim.featutesTest.LoginTest"/>
+        <method signature="LoginTest.loginWithInvalidUserNamePassword(java.lang.String,java.lang.String)[pri:1, instance:com.testim.featutesTest.LoginTest@2df6226d]" name="loginWithInvalidUserNamePassword" class="com.testim.featutesTest.LoginTest"/>
+        <method signature="LoginTest.loginWithoutEnterUsernamePassword()[pri:2, instance:com.testim.featutesTest.LoginTest@2df6226d]" name="loginWithoutEnterUsernamePassword" class="com.testim.featutesTest.LoginTest"/>
+        <method signature="LoginTest.loginWithoutEnterPassword()[pri:3, instance:com.testim.featutesTest.LoginTest@2df6226d]" name="loginWithoutEnterPassword" class="com.testim.featutesTest.LoginTest"/>
+        <method signature="LoginTest.loginWithoutEnterUserName()[pri:4, instance:com.testim.featutesTest.LoginTest@2df6226d]" name="loginWithoutEnterUserName" class="com.testim.featutesTest.LoginTest"/>
       </group> <!-- Functional -->
       <group name="Smoke">
-        <method signature="LoginTest.loginWithValidUserNamePassword()[pri:0, instance:com.testim.featutesTest.LoginTest@64b73e7a]" name="loginWithValidUserNamePassword" class="com.testim.featutesTest.LoginTest"/>
+        <method signature="LoginTest.loginWithValidUserNamePassword()[pri:0, instance:com.testim.featutesTest.LoginTest@2df6226d]" name="loginWithValidUserNamePassword" class="com.testim.featutesTest.LoginTest"/>
       </group> <!-- Smoke -->
     </groups>
-    <test started-at="2025-01-30T23:15:46 IST" name="Test" finished-at="2025-01-30T23:15:53 IST" duration-ms="6730">
+    <test started-at="2025-01-31T09:56:18 IST" name="Test" finished-at="2025-01-31T09:56:29 IST" duration-ms="11067">
       <class name="com.testim.featutesTest.LoginTest">
-        <test-method is-config="true" signature="setUPBrowser(java.lang.String)[pri:0, instance:com.testim.featutesTest.LoginTest@64b73e7a]" started-at="2025-01-30T23:15:46 IST" name="setUPBrowser" finished-at="2025-01-30T23:15:49 IST" duration-ms="3121" status="PASS">
+        <test-method is-config="true" signature="setUPBrowser(java.lang.String)[pri:0, instance:com.testim.featutesTest.LoginTest@2df6226d]" started-at="2025-01-31T09:56:18 IST" name="setUPBrowser" finished-at="2025-01-31T09:56:20 IST" duration-ms="2187" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -26,19 +28,89 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUPBrowser -->
-        <test-method is-config="true" signature="LaunchURL()[pri:0, instance:com.testim.featutesTest.LoginTest@64b73e7a]" started-at="2025-01-30T23:15:49 IST" name="LaunchURL" finished-at="2025-01-30T23:15:50 IST" duration-ms="481" status="PASS">
+        <test-method is-config="true" signature="LaunchURL()[pri:0, instance:com.testim.featutesTest.LoginTest@2df6226d]" started-at="2025-01-31T09:56:20 IST" name="LaunchURL" finished-at="2025-01-31T09:56:21 IST" duration-ms="329" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- LaunchURL -->
-        <test-method signature="loginWithValidUserNamePassword()[pri:0, instance:com.testim.featutesTest.LoginTest@64b73e7a]" started-at="2025-01-30T23:15:50 IST" name="loginWithValidUserNamePassword" finished-at="2025-01-30T23:15:51 IST" duration-ms="1251" status="PASS">
+        <test-method signature="loginWithValidUserNamePassword()[pri:0, instance:com.testim.featutesTest.LoginTest@2df6226d]" started-at="2025-01-31T09:56:21 IST" name="loginWithValidUserNamePassword" finished-at="2025-01-31T09:56:27 IST" duration-ms="6598" status="FAIL">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"//h3[@data-test='error']"}
+  (Session info: chrome=132.0.6834.112)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.11.0', revision: '040bc5406b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [fdc5c30632f9b87090d0a4aeba8bfa25, findElement {using=xpath, value=//h3[@data-test='error']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 132.0.6834.112, chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445..., userDataDir: C:\Users\Dell\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62543}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62543/devtoo..., se:cdpVersion: 132.0.6834.112, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: fdc5c30632f9b87090d0a4aeba8bfa25]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//h3[@data-test='error']"}
+  (Session info: chrome=132.0.6834.112)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.11.0', revision: '040bc5406b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [fdc5c30632f9b87090d0a4aeba8bfa25, findElement {using=xpath, value=//h3[@data-test='error']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 132.0.6834.112, chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445..., userDataDir: C:\Users\Dell\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62543}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62543/devtoo..., se:cdpVersion: 132.0.6834.112, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: fdc5c30632f9b87090d0a4aeba8bfa25
+at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:486)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:52)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:191)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:196)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:171)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:518)
+at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165)
+at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:355)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:349)
+at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+at jdk.proxy2/jdk.proxy2.$Proxy32.isDisplayed(Unknown Source)
+at com.testim.featuresPage.LoginPage.noInputUserErrorMs(LoginPage.java:77)
+at com.testim.featutesTest.LoginTest.loginWithValidUserNamePassword(LoginTest.java:31)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:135)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:673)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:220)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:945)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:193)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+at org.testng.TestRunner.privateRun(TestRunner.java:808)
+at org.testng.TestRunner.run(TestRunner.java:603)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:429)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:423)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:383)
+at org.testng.SuiteRunner.run(SuiteRunner.java:326)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1249)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+at org.testng.TestNG.runSuites(TestNG.java:1092)
+at org.testng.TestNG.run(TestNG.java:1060)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginWithValidUserNamePassword -->
-        <test-method is-config="true" signature="LaunchURL()[pri:0, instance:com.testim.featutesTest.LoginTest@64b73e7a]" started-at="2025-01-30T23:15:51 IST" name="LaunchURL" finished-at="2025-01-30T23:15:51 IST" duration-ms="116" status="PASS">
+        <test-method is-config="true" signature="LaunchURL()[pri:0, instance:com.testim.featutesTest.LoginTest@2df6226d]" started-at="2025-01-31T09:56:27 IST" name="LaunchURL" finished-at="2025-01-31T09:56:28 IST" duration-ms="104" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- LaunchURL -->
-        <test-method signature="loginWithInvalidUserNamePassword(java.lang.String,java.lang.String)[pri:1, instance:com.testim.featutesTest.LoginTest@64b73e7a]" started-at="2025-01-30T23:15:51 IST" name="loginWithInvalidUserNamePassword" data-provider="UserNameAndPassword" finished-at="2025-01-30T23:15:52 IST" duration-ms="346" status="PASS">
+        <test-method signature="loginWithInvalidUserNamePassword(java.lang.String,java.lang.String)[pri:1, instance:com.testim.featutesTest.LoginTest@2df6226d]" started-at="2025-01-31T09:56:28 IST" name="loginWithInvalidUserNamePassword" data-provider="UserNameAndPassword" finished-at="2025-01-31T09:56:28 IST" duration-ms="255" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -54,11 +126,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginWithInvalidUserNamePassword -->
-        <test-method is-config="true" signature="LaunchURL()[pri:0, instance:com.testim.featutesTest.LoginTest@64b73e7a]" started-at="2025-01-30T23:15:52 IST" name="LaunchURL" finished-at="2025-01-30T23:15:52 IST" duration-ms="75" status="PASS">
+        <test-method is-config="true" signature="LaunchURL()[pri:0, instance:com.testim.featutesTest.LoginTest@2df6226d]" started-at="2025-01-31T09:56:28 IST" name="LaunchURL" finished-at="2025-01-31T09:56:28 IST" duration-ms="43" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- LaunchURL -->
-        <test-method signature="loginWithInvalidUserNamePassword(java.lang.String,java.lang.String)[pri:1, instance:com.testim.featutesTest.LoginTest@64b73e7a]" started-at="2025-01-30T23:15:52 IST" name="loginWithInvalidUserNamePassword" data-provider="UserNameAndPassword" finished-at="2025-01-30T23:15:52 IST" duration-ms="310" status="PASS">
+        <test-method signature="loginWithInvalidUserNamePassword(java.lang.String,java.lang.String)[pri:1, instance:com.testim.featutesTest.LoginTest@2df6226d]" started-at="2025-01-31T09:56:28 IST" name="loginWithInvalidUserNamePassword" data-provider="UserNameAndPassword" finished-at="2025-01-31T09:56:28 IST" duration-ms="231" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -74,11 +146,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginWithInvalidUserNamePassword -->
-        <test-method is-config="true" signature="LaunchURL()[pri:0, instance:com.testim.featutesTest.LoginTest@64b73e7a]" started-at="2025-01-30T23:15:52 IST" name="LaunchURL" finished-at="2025-01-30T23:15:52 IST" duration-ms="54" status="PASS">
+        <test-method is-config="true" signature="LaunchURL()[pri:0, instance:com.testim.featutesTest.LoginTest@2df6226d]" started-at="2025-01-31T09:56:28 IST" name="LaunchURL" finished-at="2025-01-31T09:56:28 IST" duration-ms="44" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- LaunchURL -->
-        <test-method signature="loginWithInvalidUserNamePassword(java.lang.String,java.lang.String)[pri:1, instance:com.testim.featutesTest.LoginTest@64b73e7a]" started-at="2025-01-30T23:15:52 IST" name="loginWithInvalidUserNamePassword" data-provider="UserNameAndPassword" finished-at="2025-01-30T23:15:52 IST" duration-ms="310" status="PASS">
+        <test-method signature="loginWithInvalidUserNamePassword(java.lang.String,java.lang.String)[pri:1, instance:com.testim.featutesTest.LoginTest@2df6226d]" started-at="2025-01-31T09:56:28 IST" name="loginWithInvalidUserNamePassword" data-provider="UserNameAndPassword" finished-at="2025-01-31T09:56:28 IST" duration-ms="226" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -94,15 +166,31 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginWithInvalidUserNamePassword -->
-        <test-method is-config="true" signature="LaunchURL()[pri:0, instance:com.testim.featutesTest.LoginTest@64b73e7a]" started-at="2025-01-30T23:15:52 IST" name="LaunchURL" finished-at="2025-01-30T23:15:52 IST" duration-ms="52" status="PASS">
+        <test-method is-config="true" signature="LaunchURL()[pri:0, instance:com.testim.featutesTest.LoginTest@2df6226d]" started-at="2025-01-31T09:56:28 IST" name="LaunchURL" finished-at="2025-01-31T09:56:28 IST" duration-ms="43" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- LaunchURL -->
-        <test-method signature="loginWithoutEnterUsernamePassword()[pri:2, instance:com.testim.featutesTest.LoginTest@64b73e7a]" started-at="2025-01-30T23:15:52 IST" name="loginWithoutEnterUsernamePassword" finished-at="2025-01-30T23:15:53 IST" duration-ms="117" status="PASS">
+        <test-method signature="loginWithoutEnterUsernamePassword()[pri:2, instance:com.testim.featutesTest.LoginTest@2df6226d]" started-at="2025-01-31T09:56:28 IST" name="loginWithoutEnterUsernamePassword" finished-at="2025-01-31T09:56:28 IST" duration-ms="84" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginWithoutEnterUsernamePassword -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.testim.featutesTest.LoginTest@64b73e7a]" started-at="2025-01-30T23:15:53 IST" name="tearDown" finished-at="2025-01-30T23:15:53 IST" duration-ms="311" status="PASS">
+        <test-method is-config="true" signature="LaunchURL()[pri:0, instance:com.testim.featutesTest.LoginTest@2df6226d]" started-at="2025-01-31T09:56:28 IST" name="LaunchURL" finished-at="2025-01-31T09:56:29 IST" duration-ms="35" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchURL -->
+        <test-method signature="loginWithoutEnterPassword()[pri:3, instance:com.testim.featutesTest.LoginTest@2df6226d]" started-at="2025-01-31T09:56:29 IST" name="loginWithoutEnterPassword" finished-at="2025-01-31T09:56:29 IST" duration-ms="136" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithoutEnterPassword -->
+        <test-method is-config="true" signature="LaunchURL()[pri:0, instance:com.testim.featutesTest.LoginTest@2df6226d]" started-at="2025-01-31T09:56:29 IST" name="LaunchURL" finished-at="2025-01-31T09:56:29 IST" duration-ms="33" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchURL -->
+        <test-method signature="loginWithoutEnterUserName()[pri:4, instance:com.testim.featutesTest.LoginTest@2df6226d]" started-at="2025-01-31T09:56:29 IST" name="loginWithoutEnterUserName" finished-at="2025-01-31T09:56:29 IST" duration-ms="142" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithoutEnterUserName -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.testim.featutesTest.LoginTest@2df6226d]" started-at="2025-01-31T09:56:29 IST" name="tearDown" finished-at="2025-01-31T09:56:29 IST" duration-ms="222" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->

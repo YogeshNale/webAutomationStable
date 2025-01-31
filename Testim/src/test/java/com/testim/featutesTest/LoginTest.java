@@ -28,6 +28,7 @@ public class LoginTest extends TestBase {
 		loginPage.enterPassword("secret_sauce");
 		loginPage.clickOnLoginButton();
 	loginPage.verifyUserRedirectOnHomePage("https://www.saucedemo.com/inventory.html");
+	loginPage.noInputUserErrorMs();
 		
 	}
 	
@@ -52,6 +53,13 @@ public class LoginTest extends TestBase {
 	@Test(priority=3,groups="Functional")
 	public void loginWithoutEnterPassword() {
 		loginPage.enterUserName("Yogesh");
+		loginPage.clickOnLoginButton();
+		loginPage.noInputUserErrorMs();
+	}
+	
+	@Test(priority=4,groups="Functional")
+	public void loginWithoutEnterUserName() {
+		loginPage.enterPassword("Nale");
 		loginPage.clickOnLoginButton();
 		loginPage.noInputUserErrorMs();
 	}

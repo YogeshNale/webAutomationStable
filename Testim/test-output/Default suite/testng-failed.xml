@@ -6,8 +6,9 @@
       <class name="com.testim.featutesTest.LoginTest">
         <methods>
           <include name="setUPBrowser"/>
+          <include name="loginWithoutEnterUsernamePassword"/>
           <include name="tearDown"/>
-          <include name="start"/>
+          <include name="LaunchURL"/>
         </methods>
       </class> <!-- com.testim.featutesTest.LoginTest -->
     </classes>

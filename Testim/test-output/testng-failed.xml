@@ -10,9 +10,9 @@
       <class name="com.testim.featutesTest.LoginTest">
         <methods>
           <include name="setUPBrowser"/>
-          <include name="loginWithoutEnterUsernamePassword"/>
           <include name="tearDown"/>
           <include name="LaunchURL"/>
+          <include name="loginWithValidUserNamePassword"/>
         </methods>
       </class> <!-- com.testim.featutesTest.LoginTest -->
     </classes>
