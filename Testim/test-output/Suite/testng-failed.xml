@@ -7,14 +7,13 @@
   </listeners>
   <test thread-count="5" name="Test(failed)">
     <classes>
-      <class name="com.testim.featutesTest.LoginTest">
+      <class name="com.testim.featutesTest.BuyProductFlowTest">
         <methods>
+          <include name="checkBuyProductE2EFlow"/>
           <include name="setUPBrowser"/>
-          <include name="loginWithoutEnterUsernamePassword"/>
-          <include name="tearDown"/>
-          <include name="LaunchURL"/>
+          <include name="preCondtion"/>
         </methods>
-      </class> <!-- com.testim.featutesTest.LoginTest -->
+      </class> <!-- com.testim.featutesTest.BuyProductFlowTest -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->

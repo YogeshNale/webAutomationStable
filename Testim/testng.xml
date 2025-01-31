@@ -7,7 +7,8 @@
 <parameter name="BR" value="Chrome"></parameter>
   <test thread-count="5" name="Test">
     <classes>
-      <class name="com.testim.featutesTest.LoginTest"/>
+     
+       <class name="com.testim.featutesTest.BuyProductFlowTest"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
