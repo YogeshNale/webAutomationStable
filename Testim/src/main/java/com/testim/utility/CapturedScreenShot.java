@@ -22,12 +22,12 @@ public class CapturedScreenShot extends TestBase {
 	}
 
 	public static String captureScreenShot(String fileName) {
-       
-		String filePath = System.getProperty("user.dir") +"/src/test/resources/ScreenShots/" + fileName
+
+		String filePath = System.getProperty("user.dir") + "/src/test/resources/ScreenShots/" + fileName
 				+ CapturedScreenShot.getCurrentDateTime() + ".png";
-		
 		TakesScreenshot typeCastObj = (TakesScreenshot) driver;
 		try {
+
 			File captureScreenShot = typeCastObj.getScreenshotAs(OutputType.FILE);
 			File destinationPath = new File(filePath);
 			FileHandler.copy(captureScreenShot, destinationPath);
