@@ -183,3 +183,435 @@
 2025-01-30T23:15:52,892 INFO  [main] ExtentReport:20 - loginWithoutEnterUsernamePassword scenario execution start
 2025-01-30T23:15:53,007 INFO  [main] ExtentReport:27 - loginWithoutEnterUsernamePassword scenario execute successfully.
 2025-01-30T23:15:53,321 INFO  [main] LoginTest:51 - Browser quit Sucessfully.
+2025-01-31T12:33:06,338 INFO  [main] LoginTest:42 - Chrome Browser Launch.
+2025-01-31T12:33:08,399 INFO  [main] LoginTest:20 - URL SucessFully Launched.
+2025-01-31T12:33:08,439 INFO  [main] ExtentReport:20 - loginWithValidUserNamePassword scenario execution start
+2025-01-31T12:33:08,888 INFO  [main] ExtentReport:27 - loginWithValidUserNamePassword scenario execute successfully.
+2025-01-31T12:33:09,132 INFO  [main] LoginTest:20 - URL SucessFully Launched.
+2025-01-31T12:33:09,145 INFO  [main] ExtentReport:20 - loginWithInvalidUserNamePassword scenario execution start
+2025-01-31T12:33:09,461 INFO  [main] ExtentReport:27 - loginWithInvalidUserNamePassword scenario execute successfully.
+2025-01-31T12:33:09,536 INFO  [main] LoginTest:20 - URL SucessFully Launched.
+2025-01-31T12:33:09,544 INFO  [main] ExtentReport:20 - loginWithInvalidUserNamePassword scenario execution start
+2025-01-31T12:33:09,780 INFO  [main] ExtentReport:27 - loginWithInvalidUserNamePassword scenario execute successfully.
+2025-01-31T12:33:09,830 INFO  [main] LoginTest:20 - URL SucessFully Launched.
+2025-01-31T12:33:09,839 INFO  [main] ExtentReport:20 - loginWithInvalidUserNamePassword scenario execution start
+2025-01-31T12:33:10,065 INFO  [main] ExtentReport:27 - loginWithInvalidUserNamePassword scenario execute successfully.
+2025-01-31T12:33:10,115 INFO  [main] LoginTest:20 - URL SucessFully Launched.
+2025-01-31T12:33:10,117 INFO  [main] ExtentReport:20 - loginWithoutEnterUsernamePassword scenario execution start
+2025-01-31T12:33:10,204 INFO  [main] ExtentReport:27 - loginWithoutEnterUsernamePassword scenario execute successfully.
+2025-01-31T12:33:10,259 INFO  [main] LoginTest:20 - URL SucessFully Launched.
+2025-01-31T12:33:10,262 INFO  [main] ExtentReport:20 - loginWithoutEnterPassword scenario execution start
+2025-01-31T12:33:10,475 INFO  [main] ExtentReport:27 - loginWithoutEnterPassword scenario execute successfully.
+2025-01-31T12:33:11,015 INFO  [main] LoginTest:68 - Browser quit Sucessfully.
+2025-01-31T12:33:12,393 INFO  [main] BuyProductFlowTest:42 - Chrome Browser Launch.
+2025-01-31T12:33:14,258 INFO  [main] ExtentReport:20 - checkBuyProductE2EFlow scenario execution start
+2025-01-31T12:33:19,553 INFO  [main] ExtentReport:37 - checkBuyProductE2EFlow scenario execution fail.
+2025-01-31T12:33:19,930 INFO  [main] BuyProductFlowTest:68 - Browser quit Sucessfully.
+2025-01-31T12:38:01,861 INFO  [main] LoginTest:42 - Chrome Browser Launch.
+2025-01-31T12:38:03,324 INFO  [main] LoginTest:20 - URL SucessFully Launched.
+2025-01-31T12:38:03,341 INFO  [main] ExtentReport:20 - loginWithValidUserNamePassword scenario execution start
+2025-01-31T12:38:03,751 INFO  [main] ExtentReport:27 - loginWithValidUserNamePassword scenario execute successfully.
+2025-01-31T12:38:03,871 INFO  [main] LoginTest:20 - URL SucessFully Launched.
+2025-01-31T12:38:03,874 INFO  [main] ExtentReport:20 - loginWithInvalidUserNamePassword scenario execution start
+2025-01-31T12:38:04,145 INFO  [main] ExtentReport:27 - loginWithInvalidUserNamePassword scenario execute successfully.
+2025-01-31T12:38:04,194 INFO  [main] LoginTest:20 - URL SucessFully Launched.
+2025-01-31T12:38:04,197 INFO  [main] ExtentReport:20 - loginWithInvalidUserNamePassword scenario execution start
+2025-01-31T12:38:04,406 INFO  [main] ExtentReport:27 - loginWithInvalidUserNamePassword scenario execute successfully.
+2025-01-31T12:38:04,467 INFO  [main] LoginTest:20 - URL SucessFully Launched.
+2025-01-31T12:38:04,472 INFO  [main] ExtentReport:20 - loginWithInvalidUserNamePassword scenario execution start
+2025-01-31T12:38:04,682 INFO  [main] ExtentReport:27 - loginWithInvalidUserNamePassword scenario execute successfully.
+2025-01-31T12:38:04,724 INFO  [main] LoginTest:20 - URL SucessFully Launched.
+2025-01-31T12:38:04,727 INFO  [main] ExtentReport:20 - loginWithoutEnterUsernamePassword scenario execution start
+2025-01-31T12:38:04,805 INFO  [main] ExtentReport:27 - loginWithoutEnterUsernamePassword scenario execute successfully.
+2025-01-31T12:38:04,842 INFO  [main] LoginTest:20 - URL SucessFully Launched.
+2025-01-31T12:38:04,847 INFO  [main] ExtentReport:20 - loginWithoutEnterPassword scenario execution start
+2025-01-31T12:38:04,964 INFO  [main] ExtentReport:27 - loginWithoutEnterPassword scenario execute successfully.
+2025-01-31T12:38:05,292 INFO  [main] LoginTest:68 - Browser quit Sucessfully.
+2025-01-31T12:38:06,487 INFO  [main] BuyProductFlowTest:42 - Chrome Browser Launch.
+2025-01-31T12:38:08,359 INFO  [main] ExtentReport:20 - checkBuyProductE2EFlow scenario execution start
+2025-01-31T12:38:13,714 INFO  [main] ExtentReport:37 - checkBuyProductE2EFlow scenario execution fail.
+2025-01-31T12:38:14,005 INFO  [main] BuyProductFlowTest:68 - Browser quit Sucessfully.
+2025-01-31T12:39:30,302 INFO  [main] LoginTest:42 - Chrome Browser Launch.
+2025-01-31T12:39:31,857 INFO  [main] LoginTest:20 - URL SucessFully Launched.
+2025-01-31T12:39:31,873 INFO  [main] ExtentReport:20 - loginWithValidUserNamePassword scenario execution start
+2025-01-31T12:39:32,323 INFO  [main] ExtentReport:27 - loginWithValidUserNamePassword scenario execute successfully.
+2025-01-31T12:39:32,373 INFO  [main] LoginTest:20 - URL SucessFully Launched.
+2025-01-31T12:39:32,379 INFO  [main] ExtentReport:20 - loginWithInvalidUserNamePassword scenario execution start
+2025-01-31T12:39:32,761 INFO  [main] ExtentReport:27 - loginWithInvalidUserNamePassword scenario execute successfully.
+2025-01-31T12:39:32,811 INFO  [main] LoginTest:20 - URL SucessFully Launched.
+2025-01-31T12:39:32,815 INFO  [main] ExtentReport:20 - loginWithInvalidUserNamePassword scenario execution start
+2025-01-31T12:39:33,016 INFO  [main] ExtentReport:27 - loginWithInvalidUserNamePassword scenario execute successfully.
+2025-01-31T12:39:33,077 INFO  [main] LoginTest:20 - URL SucessFully Launched.
+2025-01-31T12:39:33,079 INFO  [main] ExtentReport:20 - loginWithInvalidUserNamePassword scenario execution start
+2025-01-31T12:39:33,291 INFO  [main] ExtentReport:27 - loginWithInvalidUserNamePassword scenario execute successfully.
+2025-01-31T12:39:33,335 INFO  [main] LoginTest:20 - URL SucessFully Launched.
+2025-01-31T12:39:33,337 INFO  [main] ExtentReport:20 - loginWithoutEnterUsernamePassword scenario execution start
+2025-01-31T12:39:33,414 INFO  [main] ExtentReport:27 - loginWithoutEnterUsernamePassword scenario execute successfully.
+2025-01-31T12:39:33,453 INFO  [main] LoginTest:20 - URL SucessFully Launched.
+2025-01-31T12:39:33,455 INFO  [main] ExtentReport:20 - loginWithoutEnterPassword scenario execution start
+2025-01-31T12:39:33,581 INFO  [main] ExtentReport:27 - loginWithoutEnterPassword scenario execute successfully.
+2025-01-31T12:39:33,810 INFO  [main] LoginTest:68 - Browser quit Sucessfully.
+2025-01-31T12:39:35,035 INFO  [main] BuyProductFlowTest:42 - Chrome Browser Launch.
+2025-01-31T12:39:36,819 INFO  [main] ExtentReport:20 - checkBuyProductE2EFlow scenario execution start
+2025-01-31T12:39:39,272 INFO  [main] ExtentReport:37 - checkBuyProductE2EFlow scenario execution fail.
+2025-01-31T12:39:39,538 INFO  [main] BuyProductFlowTest:68 - Browser quit Sucessfully.
+2025-01-31T12:40:29,032 INFO  [main] LoginTest:42 - Chrome Browser Launch.
+2025-01-31T12:40:30,503 INFO  [main] LoginTest:20 - URL SucessFully Launched.
+2025-01-31T12:40:30,527 INFO  [main] ExtentReport:20 - loginWithValidUserNamePassword scenario execution start
+2025-01-31T12:40:30,928 INFO  [main] ExtentReport:27 - loginWithValidUserNamePassword scenario execute successfully.
+2025-01-31T12:40:31,028 INFO  [main] LoginTest:20 - URL SucessFully Launched.
+2025-01-31T12:40:31,032 INFO  [main] ExtentReport:20 - loginWithInvalidUserNamePassword scenario execution start
+2025-01-31T12:40:31,289 INFO  [main] ExtentReport:27 - loginWithInvalidUserNamePassword scenario execute successfully.
+2025-01-31T12:40:31,331 INFO  [main] LoginTest:20 - URL SucessFully Launched.
+2025-01-31T12:40:31,334 INFO  [main] ExtentReport:20 - loginWithInvalidUserNamePassword scenario execution start
+2025-01-31T12:40:31,559 INFO  [main] ExtentReport:27 - loginWithInvalidUserNamePassword scenario execute successfully.
+2025-01-31T12:40:31,623 INFO  [main] LoginTest:20 - URL SucessFully Launched.
+2025-01-31T12:40:31,624 INFO  [main] ExtentReport:20 - loginWithInvalidUserNamePassword scenario execution start
+2025-01-31T12:40:31,862 INFO  [main] ExtentReport:27 - loginWithInvalidUserNamePassword scenario execute successfully.
+2025-01-31T12:40:31,882 INFO  [main] LoginTest:20 - URL SucessFully Launched.
+2025-01-31T12:40:31,889 INFO  [main] ExtentReport:20 - loginWithoutEnterUsernamePassword scenario execution start
+2025-01-31T12:40:31,985 INFO  [main] ExtentReport:27 - loginWithoutEnterUsernamePassword scenario execute successfully.
+2025-01-31T12:40:32,024 INFO  [main] LoginTest:20 - URL SucessFully Launched.
+2025-01-31T12:40:32,028 INFO  [main] ExtentReport:20 - loginWithoutEnterPassword scenario execution start
+2025-01-31T12:40:32,147 INFO  [main] ExtentReport:27 - loginWithoutEnterPassword scenario execute successfully.
+2025-01-31T12:40:33,333 INFO  [main] BuyProductFlowTest:42 - Chrome Browser Launch.
+2025-01-31T12:40:35,138 INFO  [main] ExtentReport:20 - checkBuyProductE2EFlow scenario execution start
+2025-01-31T12:40:37,562 INFO  [main] ExtentReport:37 - checkBuyProductE2EFlow scenario execution fail.
+2025-01-31T12:43:04,172 INFO  [main] LoginTest:42 - Chrome Browser Launch.
+2025-01-31T12:43:05,595 INFO  [main] LoginTest:20 - URL SucessFully Launched.
+2025-01-31T12:43:05,622 INFO  [main] ExtentReport:20 - loginWithValidUserNamePassword scenario execution start
+2025-01-31T12:43:06,157 INFO  [main] ExtentReport:27 - loginWithValidUserNamePassword scenario execute successfully.
+2025-01-31T12:43:06,319 INFO  [main] LoginTest:20 - URL SucessFully Launched.
+2025-01-31T12:43:06,325 INFO  [main] ExtentReport:20 - loginWithInvalidUserNamePassword scenario execution start
+2025-01-31T12:43:06,655 INFO  [main] ExtentReport:27 - loginWithInvalidUserNamePassword scenario execute successfully.
+2025-01-31T12:43:06,719 INFO  [main] LoginTest:20 - URL SucessFully Launched.
+2025-01-31T12:43:06,726 INFO  [main] ExtentReport:20 - loginWithInvalidUserNamePassword scenario execution start
+2025-01-31T12:43:06,931 INFO  [main] ExtentReport:27 - loginWithInvalidUserNamePassword scenario execute successfully.
+2025-01-31T12:43:06,970 INFO  [main] LoginTest:20 - URL SucessFully Launched.
+2025-01-31T12:43:06,974 INFO  [main] ExtentReport:20 - loginWithInvalidUserNamePassword scenario execution start
+2025-01-31T12:43:07,244 INFO  [main] ExtentReport:27 - loginWithInvalidUserNamePassword scenario execute successfully.
+2025-01-31T12:43:07,311 INFO  [main] LoginTest:20 - URL SucessFully Launched.
+2025-01-31T12:43:07,315 INFO  [main] ExtentReport:20 - loginWithoutEnterUsernamePassword scenario execution start
+2025-01-31T12:43:07,392 INFO  [main] ExtentReport:27 - loginWithoutEnterUsernamePassword scenario execute successfully.
+2025-01-31T12:43:07,432 INFO  [main] LoginTest:20 - URL SucessFully Launched.
+2025-01-31T12:43:07,437 INFO  [main] ExtentReport:20 - loginWithoutEnterPassword scenario execution start
+2025-01-31T12:43:07,566 INFO  [main] ExtentReport:27 - loginWithoutEnterPassword scenario execute successfully.
+2025-01-31T12:43:08,873 INFO  [main] BuyProductFlowTest:42 - Chrome Browser Launch.
+2025-01-31T12:43:10,915 INFO  [main] ExtentReport:20 - checkBuyProductE2EFlow scenario execution start
+2025-01-31T12:43:13,445 INFO  [main] ExtentReport:37 - checkBuyProductE2EFlow scenario execution fail.
+2025-01-31T12:44:12,858 INFO  [main] LoginTest:42 - Chrome Browser Launch.
+2025-01-31T12:44:14,375 INFO  [main] LoginTest:20 - URL SucessFully Launched.
+2025-01-31T12:44:14,404 INFO  [main] ExtentReport:20 - loginWithValidUserNamePassword scenario execution start
+2025-01-31T12:44:14,765 INFO  [main] ExtentReport:27 - loginWithValidUserNamePassword scenario execute successfully.
+2025-01-31T12:44:14,875 INFO  [main] LoginTest:20 - URL SucessFully Launched.
+2025-01-31T12:44:14,877 INFO  [main] ExtentReport:20 - loginWithInvalidUserNamePassword scenario execution start
+2025-01-31T12:44:15,141 INFO  [main] ExtentReport:27 - loginWithInvalidUserNamePassword scenario execute successfully.
+2025-01-31T12:44:15,193 INFO  [main] LoginTest:20 - URL SucessFully Launched.
+2025-01-31T12:44:15,202 INFO  [main] ExtentReport:20 - loginWithInvalidUserNamePassword scenario execution start
+2025-01-31T12:44:15,462 INFO  [main] ExtentReport:27 - loginWithInvalidUserNamePassword scenario execute successfully.
+2025-01-31T12:44:15,544 INFO  [main] LoginTest:20 - URL SucessFully Launched.
+2025-01-31T12:44:15,546 INFO  [main] ExtentReport:20 - loginWithInvalidUserNamePassword scenario execution start
+2025-01-31T12:44:15,869 INFO  [main] ExtentReport:27 - loginWithInvalidUserNamePassword scenario execute successfully.
+2025-01-31T12:44:15,916 INFO  [main] LoginTest:20 - URL SucessFully Launched.
+2025-01-31T12:44:15,918 INFO  [main] ExtentReport:20 - loginWithoutEnterUsernamePassword scenario execution start
+2025-01-31T12:44:16,003 INFO  [main] ExtentReport:27 - loginWithoutEnterUsernamePassword scenario execute successfully.
+2025-01-31T12:44:16,044 INFO  [main] LoginTest:20 - URL SucessFully Launched.
+2025-01-31T12:44:16,046 INFO  [main] ExtentReport:20 - loginWithoutEnterPassword scenario execution start
+2025-01-31T12:44:16,180 INFO  [main] ExtentReport:27 - loginWithoutEnterPassword scenario execute successfully.
+2025-01-31T12:44:17,353 INFO  [main] BuyProductFlowTest:42 - Chrome Browser Launch.
+2025-01-31T12:44:19,235 INFO  [main] ExtentReport:20 - checkBuyProductE2EFlow scenario execution start
+2025-01-31T12:44:21,725 INFO  [main] ExtentReport:37 - checkBuyProductE2EFlow scenario execution fail.
+2025-01-31T12:46:20,614 INFO  [main] LoginTest:42 - Chrome Browser Launch.
+2025-01-31T12:46:21,038 INFO  [main] LoginTest:20 - URL SucessFully Launched.
+2025-01-31T12:46:21,063 INFO  [main] ExtentReport:20 - loginWithValidUserNamePassword scenario execution start
+2025-01-31T12:46:22,279 INFO  [main] ExtentReport:27 - loginWithValidUserNamePassword scenario execute successfully.
+2025-01-31T12:46:22,371 INFO  [main] LoginTest:20 - URL SucessFully Launched.
+2025-01-31T12:46:22,377 INFO  [main] ExtentReport:20 - loginWithInvalidUserNamePassword scenario execution start
+2025-01-31T12:46:22,623 INFO  [main] ExtentReport:27 - loginWithInvalidUserNamePassword scenario execute successfully.
+2025-01-31T12:46:22,661 INFO  [main] LoginTest:20 - URL SucessFully Launched.
+2025-01-31T12:46:22,662 INFO  [main] ExtentReport:20 - loginWithInvalidUserNamePassword scenario execution start
+2025-01-31T12:46:22,879 INFO  [main] ExtentReport:27 - loginWithInvalidUserNamePassword scenario execute successfully.
+2025-01-31T12:46:22,928 INFO  [main] LoginTest:20 - URL SucessFully Launched.
+2025-01-31T12:46:22,931 INFO  [main] ExtentReport:20 - loginWithInvalidUserNamePassword scenario execution start
+2025-01-31T12:46:23,155 INFO  [main] ExtentReport:27 - loginWithInvalidUserNamePassword scenario execute successfully.
+2025-01-31T12:46:23,218 INFO  [main] LoginTest:20 - URL SucessFully Launched.
+2025-01-31T12:46:23,220 INFO  [main] ExtentReport:20 - loginWithoutEnterUsernamePassword scenario execution start
+2025-01-31T12:46:23,312 INFO  [main] ExtentReport:27 - loginWithoutEnterUsernamePassword scenario execute successfully.
+2025-01-31T12:46:23,351 INFO  [main] LoginTest:20 - URL SucessFully Launched.
+2025-01-31T12:46:23,354 INFO  [main] ExtentReport:20 - loginWithoutEnterPassword scenario execution start
+2025-01-31T12:46:23,478 INFO  [main] ExtentReport:27 - loginWithoutEnterPassword scenario execute successfully.
+2025-01-31T12:46:24,936 INFO  [main] BuyProductFlowTest:42 - Chrome Browser Launch.
+2025-01-31T12:46:26,888 INFO  [main] ExtentReport:20 - checkBuyProductE2EFlow scenario execution start
+2025-01-31T12:46:29,352 INFO  [main] ExtentReport:37 - checkBuyProductE2EFlow scenario execution fail.
+2025-01-31T12:48:11,007 INFO  [main] LoginTest:42 - Chrome Browser Launch.
+2025-01-31T12:48:12,487 INFO  [main] LoginTest:20 - URL SucessFully Launched.
+2025-01-31T12:48:12,508 INFO  [main] ExtentReport:20 - loginWithValidUserNamePassword scenario execution start
+2025-01-31T12:48:12,993 INFO  [main] ExtentReport:27 - loginWithValidUserNamePassword scenario execute successfully.
+2025-01-31T12:48:13,087 INFO  [main] LoginTest:20 - URL SucessFully Launched.
+2025-01-31T12:48:13,091 INFO  [main] ExtentReport:20 - loginWithInvalidUserNamePassword scenario execution start
+2025-01-31T12:48:13,387 INFO  [main] ExtentReport:27 - loginWithInvalidUserNamePassword scenario execute successfully.
+2025-01-31T12:48:13,439 INFO  [main] LoginTest:20 - URL SucessFully Launched.
+2025-01-31T12:48:13,440 INFO  [main] ExtentReport:20 - loginWithInvalidUserNamePassword scenario execution start
+2025-01-31T12:48:13,679 INFO  [main] ExtentReport:27 - loginWithInvalidUserNamePassword scenario execute successfully.
+2025-01-31T12:48:13,744 INFO  [main] LoginTest:20 - URL SucessFully Launched.
+2025-01-31T12:48:13,746 INFO  [main] ExtentReport:20 - loginWithInvalidUserNamePassword scenario execution start
+2025-01-31T12:48:13,957 INFO  [main] ExtentReport:27 - loginWithInvalidUserNamePassword scenario execute successfully.
+2025-01-31T12:48:13,998 INFO  [main] LoginTest:20 - URL SucessFully Launched.
+2025-01-31T12:48:14,003 INFO  [main] ExtentReport:20 - loginWithoutEnterUsernamePassword scenario execution start
+2025-01-31T12:48:14,078 INFO  [main] ExtentReport:27 - loginWithoutEnterUsernamePassword scenario execute successfully.
+2025-01-31T12:48:14,115 INFO  [main] LoginTest:20 - URL SucessFully Launched.
+2025-01-31T12:48:14,120 INFO  [main] ExtentReport:20 - loginWithoutEnterPassword scenario execution start
+2025-01-31T12:48:14,252 INFO  [main] ExtentReport:27 - loginWithoutEnterPassword scenario execute successfully.
+2025-01-31T12:48:15,405 INFO  [main] BuyProductFlowTest:42 - Chrome Browser Launch.
+2025-01-31T12:48:17,207 INFO  [main] ExtentReport:20 - checkBuyProductE2EFlow scenario execution start
+2025-01-31T12:48:17,820 INFO  [main] ExtentReport:37 - checkBuyProductE2EFlow scenario execution fail.
+2025-01-31T12:49:22,344 INFO  [main] LoginTest:42 - Chrome Browser Launch.
+2025-01-31T12:49:23,850 INFO  [main] LoginTest:20 - URL SucessFully Launched.
+2025-01-31T12:49:23,868 INFO  [main] ExtentReport:20 - loginWithValidUserNamePassword scenario execution start
+2025-01-31T12:49:24,267 INFO  [main] ExtentReport:27 - loginWithValidUserNamePassword scenario execute successfully.
+2025-01-31T12:49:24,388 INFO  [main] LoginTest:20 - URL SucessFully Launched.
+2025-01-31T12:49:24,392 INFO  [main] ExtentReport:20 - loginWithInvalidUserNamePassword scenario execution start
+2025-01-31T12:49:24,698 INFO  [main] ExtentReport:27 - loginWithInvalidUserNamePassword scenario execute successfully.
+2025-01-31T12:49:24,765 INFO  [main] LoginTest:20 - URL SucessFully Launched.
+2025-01-31T12:49:24,772 INFO  [main] ExtentReport:20 - loginWithInvalidUserNamePassword scenario execution start
+2025-01-31T12:49:24,987 INFO  [main] ExtentReport:27 - loginWithInvalidUserNamePassword scenario execute successfully.
+2025-01-31T12:49:25,028 INFO  [main] LoginTest:20 - URL SucessFully Launched.
+2025-01-31T12:49:25,031 INFO  [main] ExtentReport:20 - loginWithInvalidUserNamePassword scenario execution start
+2025-01-31T12:49:25,241 INFO  [main] ExtentReport:27 - loginWithInvalidUserNamePassword scenario execute successfully.
+2025-01-31T12:49:25,284 INFO  [main] LoginTest:20 - URL SucessFully Launched.
+2025-01-31T12:49:25,286 INFO  [main] ExtentReport:20 - loginWithoutEnterUsernamePassword scenario execution start
+2025-01-31T12:49:25,374 INFO  [main] ExtentReport:27 - loginWithoutEnterUsernamePassword scenario execute successfully.
+2025-01-31T12:49:25,422 INFO  [main] LoginTest:20 - URL SucessFully Launched.
+2025-01-31T12:49:25,424 INFO  [main] ExtentReport:20 - loginWithoutEnterPassword scenario execution start
+2025-01-31T12:49:25,608 INFO  [main] ExtentReport:27 - loginWithoutEnterPassword scenario execute successfully.
+2025-01-31T12:49:26,855 INFO  [main] BuyProductFlowTest:42 - Chrome Browser Launch.
+2025-01-31T12:49:28,708 INFO  [main] ExtentReport:20 - checkBuyProductE2EFlow scenario execution start
+2025-01-31T12:49:29,930 INFO  [main] ExtentReport:37 - checkBuyProductE2EFlow scenario execution fail.
+2025-01-31T12:50:17,458 INFO  [main] LoginTest:42 - Chrome Browser Launch.
+2025-01-31T12:50:18,717 INFO  [main] LoginTest:20 - URL SucessFully Launched.
+2025-01-31T12:50:18,730 INFO  [main] ExtentReport:20 - loginWithValidUserNamePassword scenario execution start
+2025-01-31T12:50:18,933 INFO  [main] ExtentReport:37 - loginWithValidUserNamePassword scenario execution fail.
+2025-01-31T12:50:19,653 INFO  [main] LoginTest:20 - URL SucessFully Launched.
+2025-01-31T12:50:19,658 INFO  [main] ExtentReport:20 - loginWithInvalidUserNamePassword scenario execution start
+2025-01-31T12:50:19,983 INFO  [main] ExtentReport:27 - loginWithInvalidUserNamePassword scenario execute successfully.
+2025-01-31T12:50:20,062 INFO  [main] LoginTest:20 - URL SucessFully Launched.
+2025-01-31T12:50:20,066 INFO  [main] ExtentReport:20 - loginWithInvalidUserNamePassword scenario execution start
+2025-01-31T12:50:20,300 INFO  [main] ExtentReport:27 - loginWithInvalidUserNamePassword scenario execute successfully.
+2025-01-31T12:50:20,349 INFO  [main] LoginTest:20 - URL SucessFully Launched.
+2025-01-31T12:50:20,351 INFO  [main] ExtentReport:20 - loginWithInvalidUserNamePassword scenario execution start
+2025-01-31T12:50:20,691 INFO  [main] ExtentReport:27 - loginWithInvalidUserNamePassword scenario execute successfully.
+2025-01-31T12:50:20,771 INFO  [main] LoginTest:20 - URL SucessFully Launched.
+2025-01-31T12:50:20,775 INFO  [main] ExtentReport:20 - loginWithoutEnterUsernamePassword scenario execution start
+2025-01-31T12:50:20,852 INFO  [main] ExtentReport:27 - loginWithoutEnterUsernamePassword scenario execute successfully.
+2025-01-31T12:50:20,891 INFO  [main] LoginTest:20 - URL SucessFully Launched.
+2025-01-31T12:50:20,895 INFO  [main] ExtentReport:20 - loginWithoutEnterPassword scenario execution start
+2025-01-31T12:50:21,023 INFO  [main] ExtentReport:27 - loginWithoutEnterPassword scenario execute successfully.
+2025-01-31T12:50:22,285 INFO  [main] BuyProductFlowTest:42 - Chrome Browser Launch.
+2025-01-31T12:50:24,173 INFO  [main] ExtentReport:20 - checkBuyProductE2EFlow scenario execution start
+2025-01-31T12:50:25,047 INFO  [main] BuyProductFlowTest:41 - ExecutionComplete
+2025-01-31T12:50:25,047 INFO  [main] ExtentReport:27 - checkBuyProductE2EFlow scenario execute successfully.
+2025-01-31T12:53:20,558 INFO  [main] LoginTest:42 - Chrome Browser Launch.
+2025-01-31T12:53:22,120 INFO  [main] LoginTest:20 - URL SucessFully Launched.
+2025-01-31T12:53:22,138 INFO  [main] ExtentReport:20 - loginWithValidUserNamePassword scenario execution start
+2025-01-31T12:53:22,629 INFO  [main] ExtentReport:27 - loginWithValidUserNamePassword scenario execute successfully.
+2025-01-31T12:53:22,791 INFO  [main] LoginTest:20 - URL SucessFully Launched.
+2025-01-31T12:53:22,793 INFO  [main] ExtentReport:20 - loginWithInvalidUserNamePassword scenario execution start
+2025-01-31T12:53:23,134 INFO  [main] ExtentReport:27 - loginWithInvalidUserNamePassword scenario execute successfully.
+2025-01-31T12:53:23,179 INFO  [main] LoginTest:20 - URL SucessFully Launched.
+2025-01-31T12:53:23,184 INFO  [main] ExtentReport:20 - loginWithInvalidUserNamePassword scenario execution start
+2025-01-31T12:53:23,443 INFO  [main] ExtentReport:27 - loginWithInvalidUserNamePassword scenario execute successfully.
+2025-01-31T12:53:23,517 INFO  [main] LoginTest:20 - URL SucessFully Launched.
+2025-01-31T12:53:23,522 INFO  [main] ExtentReport:20 - loginWithInvalidUserNamePassword scenario execution start
+2025-01-31T12:53:23,880 INFO  [main] ExtentReport:27 - loginWithInvalidUserNamePassword scenario execute successfully.
+2025-01-31T12:53:23,940 INFO  [main] LoginTest:20 - URL SucessFully Launched.
+2025-01-31T12:53:23,942 INFO  [main] ExtentReport:20 - loginWithoutEnterUsernamePassword scenario execution start
+2025-01-31T12:53:24,028 INFO  [main] ExtentReport:27 - loginWithoutEnterUsernamePassword scenario execute successfully.
+2025-01-31T12:53:24,069 INFO  [main] LoginTest:20 - URL SucessFully Launched.
+2025-01-31T12:53:24,072 INFO  [main] ExtentReport:20 - loginWithoutEnterPassword scenario execution start
+2025-01-31T12:53:24,225 INFO  [main] ExtentReport:27 - loginWithoutEnterPassword scenario execute successfully.
+2025-01-31T12:53:25,453 INFO  [main] BuyProductFlowTest:42 - Chrome Browser Launch.
+2025-01-31T12:53:30,429 INFO  [main] ExtentReport:20 - checkBuyProductE2EFlow scenario execution start
+2025-01-31T12:53:31,081 INFO  [main] ExtentReport:37 - checkBuyProductE2EFlow scenario execution fail.
+2025-01-31T12:56:18,110 INFO  [main] LoginTest:42 - Chrome Browser Launch.
+2025-01-31T12:56:19,400 INFO  [main] LoginTest:20 - URL SucessFully Launched.
+2025-01-31T12:56:19,426 INFO  [main] ExtentReport:20 - loginWithValidUserNamePassword scenario execution start
+2025-01-31T12:56:20,134 INFO  [main] ExtentReport:27 - loginWithValidUserNamePassword scenario execute successfully.
+2025-01-31T12:56:20,289 INFO  [main] LoginTest:20 - URL SucessFully Launched.
+2025-01-31T12:56:20,294 INFO  [main] ExtentReport:20 - loginWithInvalidUserNamePassword scenario execution start
+2025-01-31T12:56:20,721 INFO  [main] ExtentReport:27 - loginWithInvalidUserNamePassword scenario execute successfully.
+2025-01-31T12:56:20,813 INFO  [main] LoginTest:20 - URL SucessFully Launched.
+2025-01-31T12:56:20,817 INFO  [main] ExtentReport:20 - loginWithInvalidUserNamePassword scenario execution start
+2025-01-31T12:56:21,122 INFO  [main] ExtentReport:27 - loginWithInvalidUserNamePassword scenario execute successfully.
+2025-01-31T12:56:21,170 INFO  [main] LoginTest:20 - URL SucessFully Launched.
+2025-01-31T12:56:21,175 INFO  [main] ExtentReport:20 - loginWithInvalidUserNamePassword scenario execution start
+2025-01-31T12:56:21,409 INFO  [main] ExtentReport:27 - loginWithInvalidUserNamePassword scenario execute successfully.
+2025-01-31T12:56:21,450 INFO  [main] LoginTest:20 - URL SucessFully Launched.
+2025-01-31T12:56:21,454 INFO  [main] ExtentReport:20 - loginWithoutEnterUsernamePassword scenario execution start
+2025-01-31T12:56:21,530 INFO  [main] ExtentReport:27 - loginWithoutEnterUsernamePassword scenario execute successfully.
+2025-01-31T12:56:21,577 INFO  [main] LoginTest:20 - URL SucessFully Launched.
+2025-01-31T12:56:21,579 INFO  [main] ExtentReport:20 - loginWithoutEnterPassword scenario execution start
+2025-01-31T12:56:21,697 INFO  [main] ExtentReport:27 - loginWithoutEnterPassword scenario execute successfully.
+2025-01-31T12:56:22,988 INFO  [main] BuyProductFlowTest:42 - Chrome Browser Launch.
+2025-01-31T12:56:25,852 INFO  [main] ExtentReport:20 - checkBuyProductE2EFlow scenario execution start
+2025-01-31T12:56:26,587 INFO  [main] ExtentReport:37 - checkBuyProductE2EFlow scenario execution fail.
+2025-01-31T12:58:29,924 INFO  [main] LoginTest:42 - Chrome Browser Launch.
+2025-01-31T12:58:31,501 INFO  [main] LoginTest:20 - URL SucessFully Launched.
+2025-01-31T12:58:31,525 INFO  [main] ExtentReport:20 - loginWithValidUserNamePassword scenario execution start
+2025-01-31T12:58:32,390 INFO  [main] ExtentReport:27 - loginWithValidUserNamePassword scenario execute successfully.
+2025-01-31T12:58:32,511 INFO  [main] LoginTest:20 - URL SucessFully Launched.
+2025-01-31T12:58:32,520 INFO  [main] ExtentReport:20 - loginWithInvalidUserNamePassword scenario execution start
+2025-01-31T12:58:32,813 INFO  [main] ExtentReport:27 - loginWithInvalidUserNamePassword scenario execute successfully.
+2025-01-31T12:58:32,908 INFO  [main] LoginTest:20 - URL SucessFully Launched.
+2025-01-31T12:58:32,910 INFO  [main] ExtentReport:20 - loginWithInvalidUserNamePassword scenario execution start
+2025-01-31T12:58:33,165 INFO  [main] ExtentReport:27 - loginWithInvalidUserNamePassword scenario execute successfully.
+2025-01-31T12:58:33,296 INFO  [main] LoginTest:20 - URL SucessFully Launched.
+2025-01-31T12:58:33,300 INFO  [main] ExtentReport:20 - loginWithInvalidUserNamePassword scenario execution start
+2025-01-31T12:58:33,689 INFO  [main] ExtentReport:27 - loginWithInvalidUserNamePassword scenario execute successfully.
+2025-01-31T12:58:33,737 INFO  [main] LoginTest:20 - URL SucessFully Launched.
+2025-01-31T12:58:33,739 INFO  [main] ExtentReport:20 - loginWithoutEnterUsernamePassword scenario execution start
+2025-01-31T12:58:33,824 INFO  [main] ExtentReport:27 - loginWithoutEnterUsernamePassword scenario execute successfully.
+2025-01-31T12:58:33,868 INFO  [main] LoginTest:20 - URL SucessFully Launched.
+2025-01-31T12:58:33,870 INFO  [main] ExtentReport:20 - loginWithoutEnterPassword scenario execution start
+2025-01-31T12:58:33,993 INFO  [main] ExtentReport:27 - loginWithoutEnterPassword scenario execute successfully.
+2025-01-31T12:58:35,413 INFO  [main] BuyProductFlowTest:42 - Chrome Browser Launch.
+2025-01-31T12:58:37,400 INFO  [main] ExtentReport:20 - checkBuyProductE2EFlow scenario execution start
+2025-01-31T12:58:38,074 INFO  [main] ExtentReport:37 - checkBuyProductE2EFlow scenario execution fail.
+2025-01-31T12:59:17,075 INFO  [main] BuyProductFlowTest:42 - Chrome Browser Launch.
+2025-01-31T12:59:18,823 INFO  [main] ExtentReport:20 - checkBuyProductE2EFlow scenario execution start
+2025-01-31T12:59:19,244 INFO  [main] ExtentReport:37 - checkBuyProductE2EFlow scenario execution fail.
+2025-01-31T13:00:26,992 INFO  [main] BuyProductFlowTest:42 - Chrome Browser Launch.
+2025-01-31T13:00:28,796 INFO  [main] ExtentReport:20 - checkBuyProductE2EFlow scenario execution start
+2025-01-31T13:00:29,367 INFO  [main] ExtentReport:37 - checkBuyProductE2EFlow scenario execution fail.
+2025-01-31T13:01:20,351 INFO  [main] BuyProductFlowTest:42 - Chrome Browser Launch.
+2025-01-31T13:01:22,780 INFO  [main] ExtentReport:20 - checkBuyProductE2EFlow scenario execution start
+2025-01-31T13:01:23,119 INFO  [main] ExtentReport:37 - checkBuyProductE2EFlow scenario execution fail.
+2025-01-31T13:02:20,284 INFO  [main] BuyProductFlowTest:42 - Chrome Browser Launch.
+2025-01-31T13:02:22,160 INFO  [main] ExtentReport:20 - checkBuyProductE2EFlow scenario execution start
+2025-01-31T13:02:23,590 INFO  [main] ExtentReport:37 - checkBuyProductE2EFlow scenario execution fail.
+2025-01-31T13:03:14,917 INFO  [main] BuyProductFlowTest:42 - Chrome Browser Launch.
+2025-01-31T13:03:16,841 INFO  [main] ExtentReport:20 - checkBuyProductE2EFlow scenario execution start
+2025-01-31T13:03:19,307 INFO  [main] ExtentReport:37 - checkBuyProductE2EFlow scenario execution fail.
+2025-01-31T13:03:36,754 INFO  [main] BuyProductFlowTest:42 - Chrome Browser Launch.
+2025-01-31T13:03:38,782 INFO  [main] ExtentReport:20 - checkBuyProductE2EFlow scenario execution start
+2025-01-31T13:03:41,343 INFO  [main] ExtentReport:37 - checkBuyProductE2EFlow scenario execution fail.
+2025-01-31T13:04:44,613 INFO  [main] BuyProductFlowTest:42 - Chrome Browser Launch.
+2025-01-31T13:04:46,503 INFO  [main] ExtentReport:20 - checkBuyProductE2EFlow scenario execution start
+2025-01-31T13:04:47,321 INFO  [main] BuyProductFlowTest:42 - ExecutionComplete
+2025-01-31T13:04:47,324 INFO  [main] ExtentReport:27 - checkBuyProductE2EFlow scenario execute successfully.
+2025-01-31T13:05:03,471 INFO  [main] BuyProductFlowTest:42 - Chrome Browser Launch.
+2025-01-31T13:05:05,305 INFO  [main] ExtentReport:20 - checkBuyProductE2EFlow scenario execution start
+2025-01-31T13:05:06,282 INFO  [main] BuyProductFlowTest:42 - ExecutionComplete
+2025-01-31T13:05:06,285 INFO  [main] ExtentReport:27 - checkBuyProductE2EFlow scenario execute successfully.
+2025-01-31T13:05:33,886 INFO  [main] BuyProductFlowTest:42 - Chrome Browser Launch.
+2025-01-31T13:05:35,898 INFO  [main] ExtentReport:20 - checkBuyProductE2EFlow scenario execution start
+2025-01-31T13:05:36,468 INFO  [main] ExtentReport:37 - checkBuyProductE2EFlow scenario execution fail.
+2025-01-31T13:07:01,319 INFO  [main] BuyProductFlowTest:42 - Chrome Browser Launch.
+2025-01-31T13:07:03,401 INFO  [main] ExtentReport:20 - checkBuyProductE2EFlow scenario execution start
+2025-01-31T13:07:03,890 INFO  [main] ExtentReport:37 - checkBuyProductE2EFlow scenario execution fail.
+2025-01-31T13:08:46,858 INFO  [main] BuyProductFlowTest:42 - Chrome Browser Launch.
+2025-01-31T13:08:48,641 INFO  [main] ExtentReport:20 - checkBuyProductE2EFlow scenario execution start
+2025-01-31T13:08:49,157 INFO  [main] ExtentReport:37 - checkBuyProductE2EFlow scenario execution fail.
+2025-01-31T13:11:19,739 INFO  [main] BuyProductFlowTest:42 - Chrome Browser Launch.
+2025-01-31T13:11:21,925 INFO  [main] ExtentReport:20 - checkBuyProductE2EFlow scenario execution start
+2025-01-31T13:11:22,391 INFO  [main] ExtentReport:37 - checkBuyProductE2EFlow scenario execution fail.
+2025-01-31T13:12:10,159 INFO  [main] BuyProductFlowTest:42 - Chrome Browser Launch.
+2025-01-31T13:12:11,966 INFO  [main] ExtentReport:20 - checkBuyProductE2EFlow scenario execution start
+2025-01-31T13:12:12,843 INFO  [main] BuyProductFlowTest:42 - ExecutionComplete
+2025-01-31T13:12:12,846 INFO  [main] ExtentReport:27 - checkBuyProductE2EFlow scenario execute successfully.
+2025-01-31T13:12:41,116 INFO  [main] BuyProductFlowTest:42 - Chrome Browser Launch.
+2025-01-31T13:12:42,892 INFO  [main] ExtentReport:20 - checkBuyProductE2EFlow scenario execution start
+2025-01-31T13:12:43,484 INFO  [main] ExtentReport:37 - checkBuyProductE2EFlow scenario execution fail.
+2025-01-31T13:14:05,729 INFO  [main] BuyProductFlowTest:42 - Chrome Browser Launch.
+2025-01-31T13:14:07,574 INFO  [main] ExtentReport:20 - checkBuyProductE2EFlow scenario execution start
+2025-01-31T13:14:08,554 INFO  [main] BuyProductFlowTest:42 - ExecutionComplete
+2025-01-31T13:14:08,558 INFO  [main] ExtentReport:27 - checkBuyProductE2EFlow scenario execute successfully.
+2025-01-31T13:14:18,613 INFO  [main] BuyProductFlowTest:42 - Chrome Browser Launch.
+2025-01-31T13:14:20,487 INFO  [main] ExtentReport:20 - checkBuyProductE2EFlow scenario execution start
+2025-01-31T13:14:21,401 INFO  [main] BuyProductFlowTest:42 - ExecutionComplete
+2025-01-31T13:14:21,403 INFO  [main] ExtentReport:27 - checkBuyProductE2EFlow scenario execute successfully.
+2025-01-31T13:17:57,229 INFO  [main] BuyProductFlowTest:42 - Chrome Browser Launch.
+2025-01-31T13:17:59,313 INFO  [main] ExtentReport:20 - checkBuyProductE2EFlow scenario execution start
+2025-01-31T13:18:00,256 INFO  [main] ExtentReport:37 - checkBuyProductE2EFlow scenario execution fail.
+2025-01-31T13:19:20,992 INFO  [main] BuyProductFlowTest:42 - Chrome Browser Launch.
+2025-01-31T13:19:23,289 INFO  [main] ExtentReport:20 - checkBuyProductE2EFlow scenario execution start
+2025-01-31T13:19:24,446 INFO  [main] ExtentReport:37 - checkBuyProductE2EFlow scenario execution fail.
+2025-01-31T13:21:50,844 INFO  [main] BuyProductFlowTest:42 - Chrome Browser Launch.
+2025-01-31T13:21:53,147 INFO  [main] ExtentReport:20 - checkBuyProductE2EFlow scenario execution start
+2025-01-31T13:21:53,286 INFO  [main] ExtentReport:37 - checkBuyProductE2EFlow scenario execution fail.
+2025-01-31T13:22:17,453 INFO  [main] BuyProductFlowTest:42 - Chrome Browser Launch.
+2025-01-31T13:22:19,244 INFO  [main] ExtentReport:20 - checkBuyProductE2EFlow scenario execution start
+2025-01-31T13:22:20,272 INFO  [main] ExtentReport:37 - checkBuyProductE2EFlow scenario execution fail.
+2025-01-31T13:23:25,881 INFO  [main] BuyProductFlowTest:42 - Chrome Browser Launch.
+2025-01-31T13:23:27,881 INFO  [main] ExtentReport:20 - checkBuyProductE2EFlow scenario execution start
+2025-01-31T13:23:28,696 INFO  [main] ExtentReport:37 - checkBuyProductE2EFlow scenario execution fail.
+2025-01-31T13:25:21,414 INFO  [main] BuyProductFlowTest:42 - Chrome Browser Launch.
+2025-01-31T13:25:23,218 INFO  [main] ExtentReport:20 - checkBuyProductE2EFlow scenario execution start
+2025-01-31T13:25:24,223 INFO  [main] ExtentReport:37 - checkBuyProductE2EFlow scenario execution fail.
+2025-01-31T13:26:07,839 INFO  [main] BuyProductFlowTest:42 - Chrome Browser Launch.
+2025-01-31T13:26:09,740 INFO  [main] ExtentReport:20 - checkBuyProductE2EFlow scenario execution start
+2025-01-31T13:26:10,749 INFO  [main] ExtentReport:37 - checkBuyProductE2EFlow scenario execution fail.
+2025-01-31T13:27:00,800 INFO  [main] BuyProductFlowTest:42 - Chrome Browser Launch.
+2025-01-31T13:27:02,713 INFO  [main] ExtentReport:20 - checkBuyProductE2EFlow scenario execution start
+2025-01-31T13:27:03,491 INFO  [main] BuyProductFlowTest:42 - ExecutionComplete
+2025-01-31T13:27:03,495 INFO  [main] ExtentReport:27 - checkBuyProductE2EFlow scenario execute successfully.
+2025-01-31T13:30:13,296 INFO  [main] BuyProductFlowTest:42 - Chrome Browser Launch.
+2025-01-31T13:30:15,251 INFO  [main] ExtentReport:20 - checkBuyProductE2EFlow scenario execution start
+2025-01-31T13:30:16,283 INFO  [main] ExtentReport:37 - checkBuyProductE2EFlow scenario execution fail.
+2025-01-31T13:31:19,570 INFO  [main] BuyProductFlowTest:42 - Chrome Browser Launch.
+2025-01-31T13:31:21,522 INFO  [main] ExtentReport:20 - checkBuyProductE2EFlow scenario execution start
+2025-01-31T13:31:22,419 INFO  [main] ExtentReport:37 - checkBuyProductE2EFlow scenario execution fail.
+2025-01-31T13:31:52,989 INFO  [main] BuyProductFlowTest:42 - Chrome Browser Launch.
+2025-01-31T13:31:55,089 INFO  [main] ExtentReport:20 - checkBuyProductE2EFlow scenario execution start
+2025-01-31T13:31:56,023 INFO  [main] ExtentReport:37 - checkBuyProductE2EFlow scenario execution fail.
+2025-01-31T13:32:31,209 INFO  [main] BuyProductFlowTest:42 - Chrome Browser Launch.
+2025-01-31T13:32:33,274 INFO  [main] ExtentReport:20 - checkBuyProductE2EFlow scenario execution start
+2025-01-31T13:32:34,175 INFO  [main] ExtentReport:37 - checkBuyProductE2EFlow scenario execution fail.
+2025-01-31T13:33:39,879 INFO  [main] BuyProductFlowTest:42 - Chrome Browser Launch.
+2025-01-31T13:33:41,931 INFO  [main] ExtentReport:20 - checkBuyProductE2EFlow scenario execution start
+2025-01-31T13:33:42,709 INFO  [main] ExtentReport:37 - checkBuyProductE2EFlow scenario execution fail.
+2025-01-31T13:34:11,647 INFO  [main] BuyProductFlowTest:42 - Chrome Browser Launch.
+2025-01-31T13:34:13,503 INFO  [main] ExtentReport:20 - checkBuyProductE2EFlow scenario execution start
+2025-01-31T13:34:14,353 INFO  [main] ExtentReport:37 - checkBuyProductE2EFlow scenario execution fail.
+2025-01-31T13:35:00,469 INFO  [main] BuyProductFlowTest:42 - Chrome Browser Launch.
+2025-01-31T13:35:02,543 INFO  [main] ExtentReport:20 - checkBuyProductE2EFlow scenario execution start
+2025-01-31T13:35:03,263 INFO  [main] BuyProductFlowTest:42 - ExecutionComplete
+2025-01-31T13:35:03,270 INFO  [main] ExtentReport:27 - checkBuyProductE2EFlow scenario execute successfully.
+2025-01-31T13:35:41,644 INFO  [main] BuyProductFlowTest:42 - Chrome Browser Launch.
+2025-01-31T13:35:43,578 INFO  [main] ExtentReport:20 - checkBuyProductE2EFlow scenario execution start
+2025-01-31T13:35:44,401 INFO  [main] BuyProductFlowTest:42 - ExecutionComplete
+2025-01-31T13:35:44,403 INFO  [main] ExtentReport:27 - checkBuyProductE2EFlow scenario execute successfully.
+2025-01-31T13:37:14,679 INFO  [main] BuyProductFlowTest:42 - Chrome Browser Launch.
+2025-01-31T13:37:16,618 INFO  [main] ExtentReport:20 - checkBuyProductE2EFlow scenario execution start
+2025-01-31T13:37:17,199 INFO  [main] ExtentReport:37 - checkBuyProductE2EFlow scenario execution fail.
+2025-01-31T13:37:49,818 INFO  [main] BuyProductFlowTest:42 - Chrome Browser Launch.
+2025-01-31T13:37:51,835 INFO  [main] ExtentReport:20 - checkBuyProductE2EFlow scenario execution start
+2025-01-31T13:37:52,743 INFO  [main] BuyProductFlowTest:41 - ExecutionComplete
+2025-01-31T13:37:52,746 INFO  [main] ExtentReport:27 - checkBuyProductE2EFlow scenario execute successfully.
+2025-01-31T13:39:28,025 INFO  [main] BuyProductFlowTest:42 - Chrome Browser Launch.
+2025-01-31T13:39:30,119 INFO  [main] ExtentReport:20 - checkBuyProductE2EFlow scenario execution start
+2025-01-31T13:39:31,117 INFO  [main] BuyProductFlowTest:41 - ExecutionComplete
+2025-01-31T13:39:31,121 INFO  [main] ExtentReport:27 - checkBuyProductE2EFlow scenario execute successfully.
+2025-01-31T13:40:05,645 INFO  [main] BuyProductFlowTest:42 - Chrome Browser Launch.
+2025-01-31T13:40:07,985 INFO  [main] ExtentReport:20 - checkBuyProductE2EFlow scenario execution start
+2025-01-31T13:40:08,708 INFO  [main] BuyProductFlowTest:41 - ExecutionComplete
+2025-01-31T13:40:08,711 INFO  [main] ExtentReport:27 - checkBuyProductE2EFlow scenario execute successfully.
+2025-01-31T13:40:34,042 INFO  [main] BuyProductFlowTest:42 - Chrome Browser Launch.
+2025-01-31T13:40:36,226 INFO  [main] ExtentReport:20 - checkBuyProductE2EFlow scenario execution start
+2025-01-31T13:40:37,550 INFO  [main] BuyProductFlowTest:41 - ExecutionComplete
+2025-01-31T13:40:37,553 INFO  [main] ExtentReport:27 - checkBuyProductE2EFlow scenario execute successfully.
+2025-01-31T13:41:01,833 INFO  [main] BuyProductFlowTest:42 - Chrome Browser Launch.
+2025-01-31T13:41:03,936 INFO  [main] ExtentReport:20 - checkBuyProductE2EFlow scenario execution start
+2025-01-31T13:41:04,812 INFO  [main] BuyProductFlowTest:41 - ExecutionComplete
+2025-01-31T13:41:04,815 INFO  [main] ExtentReport:27 - checkBuyProductE2EFlow scenario execute successfully.
+2025-01-31T13:45:33,887 INFO  [main] BuyProductFlowTest:42 - Chrome Browser Launch.
+2025-01-31T13:45:35,885 INFO  [main] ExtentReport:20 - checkBuyProductE2EFlow scenario execution start
+2025-01-31T13:45:36,938 INFO  [main] BuyProductFlowTest:43 - ExecutionComplete
+2025-01-31T13:45:37,081 INFO  [main] ExtentReport:37 - checkBuyProductE2EFlow scenario execution fail.
+2025-01-31T13:49:59,811 INFO  [main] BuyProductFlowTest:42 - Chrome Browser Launch.
+2025-01-31T13:50:01,758 INFO  [main] ExtentReport:20 - checkBuyProductE2EFlow scenario execution start
+2025-01-31T13:50:02,633 INFO  [main] BuyProductFlowTest:43 - ExecutionComplete
+2025-01-31T13:50:02,750 INFO  [main] ExtentReport:37 - checkBuyProductE2EFlow scenario execution fail.
+2025-01-31T13:50:43,980 INFO  [main] BuyProductFlowTest:42 - Chrome Browser Launch.
+2025-01-31T13:50:46,068 INFO  [main] ExtentReport:20 - checkBuyProductE2EFlow scenario execution start
+2025-01-31T13:50:47,243 INFO  [main] BuyProductFlowTest:43 - ExecutionComplete
+2025-01-31T13:50:47,369 INFO  [main] ExtentReport:37 - checkBuyProductE2EFlow scenario execution fail.
