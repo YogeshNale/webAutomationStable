@@ -39,7 +39,7 @@ public class TestBase {
 		}
 
 		driver.manage().window().maximize();
-		Waits.implicitlyWait(5000);
+		
 		 loginPage = new LoginPage();
 
 	}
