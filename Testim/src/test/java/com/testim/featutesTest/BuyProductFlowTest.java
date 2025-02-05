@@ -47,9 +47,6 @@ public class BuyProductFlowTest extends TestBase {
 	}
 	
 	
-<<<<<<< HEAD
-=======
-	
->>>>>>> 89879074c686a79fad02ab44347c41f7c8e58209
+
 
 }

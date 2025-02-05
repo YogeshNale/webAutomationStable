@@ -615,3 +615,6 @@
 2025-01-31T13:50:46,068 INFO  [main] ExtentReport:20 - checkBuyProductE2EFlow scenario execution start
 2025-01-31T13:50:47,243 INFO  [main] BuyProductFlowTest:43 - ExecutionComplete
 2025-01-31T13:50:47,369 INFO  [main] ExtentReport:37 - checkBuyProductE2EFlow scenario execution fail.
+2025-02-05T12:46:21,584 INFO  [main] BuyProductFlowTest:42 - Chrome Browser Launch.
+2025-02-05T12:46:23,672 INFO  [main] ExtentReport:20 - checkBuyProductE2EFlow scenario execution start
+2025-02-05T12:46:24,481 INFO  [main] BuyProductFlowTest:43 - ExecutionComplete

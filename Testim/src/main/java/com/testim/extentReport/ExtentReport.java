@@ -55,7 +55,7 @@ public class ExtentReport extends TestBase implements ITestListener {
 
 	@Override
 	public void onStart(ITestContext context) {
-		extent = new ExtentReports(System.getProperty("user.dir") + "/test-output/extent-Report.html", true);
+		extent = new ExtentReports("./Reports/ExtentReport.html", true);
 	}
 
 	@Override
