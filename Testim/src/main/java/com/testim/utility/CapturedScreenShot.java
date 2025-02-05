@@ -33,7 +33,8 @@ public class CapturedScreenShot extends TestBase {
 			FileHandler.copy(captureScreenShot, destinationPath);
 			
 
-		} catch (Exception e) {
+		}
+		catch (Exception e) {
 			e.printStackTrace();
 		}
 		return filePath;

@@ -3,6 +3,7 @@ package com.testim.featutesTest;
 import static org.testng.Assert.fail;
 
 import org.openqa.selenium.support.PageFactory;
+import org.testng.Assert;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 
@@ -28,6 +29,7 @@ public class BuyProductFlowTest extends TestBase {
 	
 	@Test(priority=0)
 	public void checkBuyProductE2EFlow() {
+		
 		buyPage.clickOnProduct();
 		buyPage.getProductPrice();
 		buyPage.clickOnAddToCart();
@@ -40,16 +42,8 @@ public class BuyProductFlowTest extends TestBase {
 		checkInfoPage.clickOnContinueButton();
 		checkoutPage.clickOnFinish();
 		checkCompletePage.checkOrderPlaceSuccessfullMsg("Thank you for your order!");
-		log.info("ExecutionComplete");
-		fail();
-		
-		
+	log.info("ExecutionComplete");
+	
 	}
-	
-	
-<<<<<<< HEAD
-=======
-	
->>>>>>> 89879074c686a79fad02ab44347c41f7c8e58209
 
 }
